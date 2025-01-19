@@ -1,0 +1,12 @@
+D:\.Net\Studeying\web api\project\School\school.Data\bin\Debug\net8.0\school.Data.deps.json
+D:\.Net\Studeying\web api\project\School\school.Data\bin\Debug\net8.0\school.Data.dll
+D:\.Net\Studeying\web api\project\School\school.Data\bin\Debug\net8.0\school.Data.pdb
+D:\.Net\Studeying\web api\project\School\school.Data\obj\Debug\net8.0\school.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net\Studeying\web api\project\School\school.Data\obj\Debug\net8.0\school.Data.AssemblyInfoInputs.cache
+D:\.Net\Studeying\web api\project\School\school.Data\obj\Debug\net8.0\school.Data.AssemblyInfo.cs
+D:\.Net\Studeying\web api\project\School\school.Data\obj\Debug\net8.0\school.Data.csproj.CoreCompileInputs.cache
+D:\.Net\Studeying\web api\project\School\school.Data\obj\Debug\net8.0\school.Data.dll
+D:\.Net\Studeying\web api\project\School\school.Data\obj\Debug\net8.0\refint\school.Data.dll
+D:\.Net\Studeying\web api\project\School\school.Data\obj\Debug\net8.0\school.Data.pdb
+D:\.Net\Studeying\web api\project\School\school.Data\obj\Debug\net8.0\ref\school.Data.dll
+D:\.Net\Studeying\web api\project\School\school.Data\obj\Debug\net8.0\school.Data.csproj.AssemblyReference.cache

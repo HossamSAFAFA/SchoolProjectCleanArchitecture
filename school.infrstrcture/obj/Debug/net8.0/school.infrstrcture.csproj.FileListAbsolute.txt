@@ -1,0 +1,17 @@
+D:\.Net\Studeying\web api\project\School\school.infrstrcture\bin\Debug\net8.0\school.infrstrcture.deps.json
+D:\.Net\Studeying\web api\project\School\school.infrstrcture\bin\Debug\net8.0\school.infrstrcture.runtimeconfig.json
+D:\.Net\Studeying\web api\project\School\school.infrstrcture\bin\Debug\net8.0\school.infrstrcture.dll
+D:\.Net\Studeying\web api\project\School\school.infrstrcture\bin\Debug\net8.0\school.infrstrcture.pdb
+D:\.Net\Studeying\web api\project\School\school.infrstrcture\bin\Debug\net8.0\school.Data.dll
+D:\.Net\Studeying\web api\project\School\school.infrstrcture\bin\Debug\net8.0\school.Data.pdb
+D:\.Net\Studeying\web api\project\School\school.infrstrcture\obj\Debug\net8.0\school.infrstrcture.csproj.AssemblyReference.cache
+D:\.Net\Studeying\web api\project\School\school.infrstrcture\obj\Debug\net8.0\school.infrstrcture.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net\Studeying\web api\project\School\school.infrstrcture\obj\Debug\net8.0\school.infrstrcture.AssemblyInfoInputs.cache
+D:\.Net\Studeying\web api\project\School\school.infrstrcture\obj\Debug\net8.0\school.infrstrcture.AssemblyInfo.cs
+D:\.Net\Studeying\web api\project\School\school.infrstrcture\obj\Debug\net8.0\school.infrstrcture.csproj.CoreCompileInputs.cache
+D:\.Net\Studeying\web api\project\School\school.infrstrcture\obj\Debug\net8.0\school.i.207A5F3F.Up2Date
+D:\.Net\Studeying\web api\project\School\school.infrstrcture\obj\Debug\net8.0\school.infrstrcture.dll
+D:\.Net\Studeying\web api\project\School\school.infrstrcture\obj\Debug\net8.0\refint\school.infrstrcture.dll
+D:\.Net\Studeying\web api\project\School\school.infrstrcture\obj\Debug\net8.0\school.infrstrcture.pdb
+D:\.Net\Studeying\web api\project\School\school.infrstrcture\obj\Debug\net8.0\school.infrstrcture.genruntimeconfig.cache
+D:\.Net\Studeying\web api\project\School\school.infrstrcture\obj\Debug\net8.0\ref\school.infrstrcture.dll
