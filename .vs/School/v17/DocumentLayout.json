@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "D:\\.Net\\Studeying\\web api\\project\\School\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7FE241E0-918F-4E23-B923-14534AC491BA}|school.core\\school.core.csproj|d:\\.net\\studeying\\web api\\project\\school\\school.core\\features\\authentication\\querys\\handlers\\autionticationqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7FE241E0-918F-4E23-B923-14534AC491BA}|school.core\\school.core.csproj|solutionrelative:school.core\\features\\authentication\\querys\\handlers\\autionticationqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7FE241E0-918F-4E23-B923-14534AC491BA}|school.core\\school.core.csproj|d:\\.net\\studeying\\web api\\project\\school\\school.core\\features\\authentication\\commends\\handlers\\authenticationhandlers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FE241E0-918F-4E23-B923-14534AC491BA}|school.core\\school.core.csproj|solutionrelative:school.core\\features\\authentication\\commends\\handlers\\authenticationhandlers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FE241E0-918F-4E23-B923-14534AC491BA}|school.core\\school.core.csproj|d:\\.net\\studeying\\web api\\project\\school\\school.core\\base\\responcehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FE241E0-918F-4E23-B923-14534AC491BA}|school.core\\school.core.csproj|solutionrelative:school.core\\base\\responcehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F62CE14E-106C-4411-B57A-FAC6856DDD7B}|School.Service\\School.Service.csproj|d:\\.net\\studeying\\web api\\project\\school\\school.service\\implmentation\\authentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -15,8 +19,8 @@
       "RelativeMoniker": "D:0:0:{F62CE14E-106C-4411-B57A-FAC6856DDD7B}|School.Service\\School.Service.csproj|solutionrelative:school.service\\abstract\\iauthentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7FE241E0-918F-4E23-B923-14534AC491BA}|school.core\\school.core.csproj|d:\\.net\\studeying\\web api\\project\\school\\school.core\\features\\authentication\\commends\\handlers\\authenticationhandlers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7FE241E0-918F-4E23-B923-14534AC491BA}|school.core\\school.core.csproj|solutionrelative:school.core\\features\\authentication\\commends\\handlers\\authenticationhandlers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7FE241E0-918F-4E23-B923-14534AC491BA}|school.core\\school.core.csproj|d:\\.net\\studeying\\web api\\project\\school\\school.core\\features\\authentication\\querys\\handlers\\autionticationqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FE241E0-918F-4E23-B923-14534AC491BA}|school.core\\school.core.csproj|solutionrelative:school.core\\features\\authentication\\querys\\handlers\\autionticationqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4549F679-F9A7-4824-B92B-1784C0B386DB}|school.Data\\school.Data.csproj|d:\\.net\\studeying\\web api\\project\\school\\school.data\\appmetadata\\router.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -41,10 +45,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{7FE241E0-918F-4E23-B923-14534AC491BA}|school.core\\school.core.csproj|d:\\.net\\studeying\\web api\\project\\school\\school.core\\base\\responce.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7FE241E0-918F-4E23-B923-14534AC491BA}|school.core\\school.core.csproj|solutionrelative:school.core\\base\\responce.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7FE241E0-918F-4E23-B923-14534AC491BA}|school.core\\school.core.csproj|d:\\.net\\studeying\\web api\\project\\school\\school.core\\base\\responcehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7FE241E0-918F-4E23-B923-14534AC491BA}|school.core\\school.core.csproj|solutionrelative:school.core\\base\\responcehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9656D2C5-8CF0-4973-AEAB-1A3DB46AE7C5}|school.infrstrcture\\school.infrstrcture.csproj|d:\\.net\\studeying\\web api\\project\\school\\school.infrstrcture\\repositary\\refrashtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -410,11 +410,11 @@
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
-      "VerticalTabListWidth": 100,
+      "VerticalTabListWidth": 105,
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 13,
           "Children": [
             {
               "$type": "Bookmark",
@@ -426,7 +426,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "AutionticationQueryHandler.cs",
               "DocumentMoniker": "D:\\.Net\\Studeying\\web api\\project\\School\\school.core\\features\\Authentication\\Querys\\Handlers\\AutionticationQueryHandler.cs",
               "RelativeDocumentMoniker": "school.core\\features\\Authentication\\Querys\\Handlers\\AutionticationQueryHandler.cs",
@@ -439,7 +439,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "AuthorizeUserQuery.cs",
               "DocumentMoniker": "D:\\.Net\\Studeying\\web api\\project\\School\\school.core\\features\\Authentication\\Querys\\models\\AuthorizeUserQuery.cs",
               "RelativeDocumentMoniker": "school.core\\features\\Authentication\\Querys\\models\\AuthorizeUserQuery.cs",
@@ -523,7 +523,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "AuthenticationController.cs",
               "DocumentMoniker": "D:\\.Net\\Studeying\\web api\\project\\School\\SchoolApi\\controller\\AuthenticationController.cs",
               "RelativeDocumentMoniker": "SchoolApi\\controller\\AuthenticationController.cs",
@@ -535,39 +535,42 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Authentication.cs",
               "DocumentMoniker": "D:\\.Net\\Studeying\\web api\\project\\School\\School.Service\\implmentation\\Authentication.cs",
               "RelativeDocumentMoniker": "School.Service\\implmentation\\Authentication.cs",
               "ToolTip": "D:\\.Net\\Studeying\\web api\\project\\School\\School.Service\\implmentation\\Authentication.cs",
               "RelativeToolTip": "School.Service\\implmentation\\Authentication.cs",
-              "ViewState": "AQIAAIkAAAAAAAAAAAAAAJMAAAArAAAA",
+              "ViewState": "AQIAACIAAAAAAAAAAAAAAJwAAACBAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-14T05:46:04.447Z"
+              "WhenOpened": "2025-01-14T05:46:04.447Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "IAuthentication.cs",
               "DocumentMoniker": "D:\\.Net\\Studeying\\web api\\project\\School\\School.Service\\abstract\\IAuthentication.cs",
               "RelativeDocumentMoniker": "School.Service\\abstract\\IAuthentication.cs",
               "ToolTip": "D:\\.Net\\Studeying\\web api\\project\\School\\School.Service\\abstract\\IAuthentication.cs",
               "RelativeToolTip": "School.Service\\abstract\\IAuthentication.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAUAAAAXAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-14T05:45:56.318Z"
+              "WhenOpened": "2025-01-14T05:45:56.318Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "AuthenticationHandlers.cs",
               "DocumentMoniker": "D:\\.Net\\Studeying\\web api\\project\\School\\school.core\\features\\Authentication\\commends\\Handlers\\AuthenticationHandlers.cs",
               "RelativeDocumentMoniker": "school.core\\features\\Authentication\\commends\\Handlers\\AuthenticationHandlers.cs",
               "ToolTip": "D:\\.Net\\Studeying\\web api\\project\\School\\school.core\\features\\Authentication\\commends\\Handlers\\AuthenticationHandlers.cs",
               "RelativeToolTip": "school.core\\features\\Authentication\\commends\\Handlers\\AuthenticationHandlers.cs",
-              "ViewState": "AQIAAAEAAAAAAAAAAAAAAB0AAABfAAAA",
+              "ViewState": "AQIAACYAAAAAAAAAAAAAADEAAABxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-11T14:19:06.449Z"
+              "WhenOpened": "2025-01-11T14:19:06.449Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -583,7 +586,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "SignInCommend.cs",
               "DocumentMoniker": "D:\\.Net\\Studeying\\web api\\project\\School\\school.core\\features\\Authentication\\commends\\models\\SignInCommend.cs",
               "RelativeDocumentMoniker": "school.core\\features\\Authentication\\commends\\models\\SignInCommend.cs",
@@ -1119,7 +1122,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Router.cs",
               "DocumentMoniker": "D:\\.Net\\Studeying\\web api\\project\\School\\school.Data\\AppMetaData\\Router.cs",
               "RelativeDocumentMoniker": "school.Data\\AppMetaData\\Router.cs",
@@ -1191,19 +1194,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 1,
               "Title": "ResponceHandler.cs",
               "DocumentMoniker": "D:\\.Net\\Studeying\\web api\\project\\School\\school.core\\Base\\ResponceHandler.cs",
               "RelativeDocumentMoniker": "school.core\\Base\\ResponceHandler.cs",
               "ToolTip": "D:\\.Net\\Studeying\\web api\\project\\School\\school.core\\Base\\ResponceHandler.cs",
               "RelativeToolTip": "school.core\\Base\\ResponceHandler.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAIAAAA",
+              "ViewState": "AQIAABQAAAAAAAAAAAAvwCwAAAA5AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-23T16:00:06.539Z"
+              "WhenOpened": "2024-12-23T16:00:06.539Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Responce.cs",
               "DocumentMoniker": "D:\\.Net\\Studeying\\web api\\project\\School\\school.core\\Base\\Responce.cs",
               "RelativeDocumentMoniker": "school.core\\Base\\Responce.cs",
@@ -1335,7 +1339,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "StudentService.cs",
               "DocumentMoniker": "D:\\.Net\\Studeying\\web api\\project\\School\\School.Service\\implmentation\\StudentService.cs",
               "RelativeDocumentMoniker": "School.Service\\implmentation\\StudentService.cs",

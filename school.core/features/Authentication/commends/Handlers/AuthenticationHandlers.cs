@@ -40,8 +40,23 @@ namespace school.core.features.Authentication.commends.Handlers
 
         async public Task<Response<jwtAuthenticationResult>> Handle(RefrashTokenCommend request, CancellationToken cancellationToken)
         {
-            var token = await authentication.GetRefrashToken(request.AcessToken, request.RefrashToken);
-            return Success(token);
+            var jwtToken = authentication.ReadJwtToken(request.AcessToken);
+            var userIdAndExpireDate = await authentication.ValidateDetails(jwtToken, request.AcessToken, request.RefrashToken);
+            switch (userIdAndExpireDate)
+            {
+                case ("AlgorithmIsWrong", null): return Unauthorized<jwtAuthenticationResult>("Algorithm Is Wrong");
+                case ("TokenIsNotExpired", null): return Unauthorized<jwtAuthenticationResult>("RefreshToken Is Expired");
+                case ("RefreshTokenIsNotFound", null): return Unauthorized<jwtAuthenticationResult>("RefreshToken Is Expired");
+                case ("RefreshTokenIsExpired", null): return Unauthorized<jwtAuthenticationResult>("RefreshToken Is Expired");
+            }
+            var (userId, expiryDate) = userIdAndExpireDate;
+            var user = await userManager.FindByIdAsync(userId);
+            if (user == null)
+            {
+                return NotFound<jwtAuthenticationResult>();
+            }
+            var result = await authentication.GetRefreshToken(user, jwtToken, expiryDate, request.RefrashToken);
+            return Success(result);
         }
 
         //  async Task<Response<jwtAuthenticationResult>> IRequestHandler<SignInCommend, Response<string>>.Handle(SignInCommend request, CancellationToken cancellationToken)

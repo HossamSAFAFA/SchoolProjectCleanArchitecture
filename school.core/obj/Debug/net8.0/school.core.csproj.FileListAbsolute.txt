@@ -24,3 +24,4 @@ D:\.Net\Studeying\web api\project\School\school.core\obj\Debug\net8.0\refint\sch
 D:\.Net\Studeying\web api\project\School\school.core\obj\Debug\net8.0\school.core.pdb
 D:\.Net\Studeying\web api\project\School\school.core\obj\Debug\net8.0\ref\school.core.dll
 D:\.Net\Studeying\web api\project\School\school.core\obj\Debug\net8.0\school.core.Resourse.sharedResource.En.resources
+D:\.Net\Studeying\web api\project\School\school.core\obj\Debug\net8.0\school.core.sourcelink.json
