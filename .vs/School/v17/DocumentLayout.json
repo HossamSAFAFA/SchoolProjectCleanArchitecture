@@ -3,56 +3,132 @@
   "WorkspaceRootPath": "D:\\.Net\\Studeying\\web api\\project\\School\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7FE241E0-918F-4E23-B923-14534AC491BA}|school.core\\school.core.csproj|d:\\.net\\studeying\\web api\\project\\school\\school.core\\features\\authentication\\commends\\handlers\\authenticationhandlers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7FE241E0-918F-4E23-B923-14534AC491BA}|school.core\\school.core.csproj|solutionrelative:school.core\\features\\authentication\\commends\\handlers\\authenticationhandlers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7FE241E0-918F-4E23-B923-14534AC491BA}|school.core\\school.core.csproj|d:\\.net\\studeying\\web api\\project\\school\\school.core\\base\\responcehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7FE241E0-918F-4E23-B923-14534AC491BA}|school.core\\school.core.csproj|solutionrelative:school.core\\base\\responcehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F62CE14E-106C-4411-B57A-FAC6856DDD7B}|School.Service\\School.Service.csproj|d:\\.net\\studeying\\web api\\project\\school\\school.service\\implmentation\\authentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F62CE14E-106C-4411-B57A-FAC6856DDD7B}|School.Service\\School.Service.csproj|solutionrelative:school.service\\implmentation\\authentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F62CE14E-106C-4411-B57A-FAC6856DDD7B}|School.Service\\School.Service.csproj|d:\\.net\\studeying\\web api\\project\\school\\school.service\\abstract\\iauthentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F62CE14E-106C-4411-B57A-FAC6856DDD7B}|School.Service\\School.Service.csproj|solutionrelative:school.service\\abstract\\iauthentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7FE241E0-918F-4E23-B923-14534AC491BA}|school.core\\school.core.csproj|d:\\.net\\studeying\\web api\\project\\school\\school.core\\features\\authentication\\querys\\handlers\\autionticationqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7FE241E0-918F-4E23-B923-14534AC491BA}|school.core\\school.core.csproj|solutionrelative:school.core\\features\\authentication\\querys\\handlers\\autionticationqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4549F679-F9A7-4824-B92B-1784C0B386DB}|school.Data\\school.Data.csproj|d:\\.net\\studeying\\web api\\project\\school\\school.data\\appmetadata\\router.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4549F679-F9A7-4824-B92B-1784C0B386DB}|school.Data\\school.Data.csproj|solutionrelative:school.data\\appmetadata\\router.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{279AC2ED-5181-48D7-BA06-88E32F23FD9F}|SchoolApi\\SchoolApi.csproj|d:\\.net\\studeying\\web api\\project\\school\\schoolapi\\controller\\authorizationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{279AC2ED-5181-48D7-BA06-88E32F23FD9F}|SchoolApi\\SchoolApi.csproj|solutionrelative:schoolapi\\controller\\authorizationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FE241E0-918F-4E23-B923-14534AC491BA}|school.core\\school.core.csproj|d:\\.net\\studeying\\web api\\project\\school\\school.core\\features\\authorization\\querys\\models\\getrolebyid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FE241E0-918F-4E23-B923-14534AC491BA}|school.core\\school.core.csproj|solutionrelative:school.core\\features\\authorization\\querys\\models\\getrolebyid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FE241E0-918F-4E23-B923-14534AC491BA}|school.core\\school.core.csproj|d:\\.net\\studeying\\web api\\project\\school\\school.core\\features\\authorization\\querys\\handlers\\rolequeryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FE241E0-918F-4E23-B923-14534AC491BA}|school.core\\school.core.csproj|solutionrelative:school.core\\features\\authorization\\querys\\handlers\\rolequeryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F62CE14E-106C-4411-B57A-FAC6856DDD7B}|School.Service\\School.Service.csproj|d:\\.net\\studeying\\web api\\project\\school\\school.service\\abstract\\iauthorize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F62CE14E-106C-4411-B57A-FAC6856DDD7B}|School.Service\\School.Service.csproj|solutionrelative:school.service\\abstract\\iauthorize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FE241E0-918F-4E23-B923-14534AC491BA}|school.core\\school.core.csproj|d:\\.net\\studeying\\web api\\project\\school\\school.core\\features\\authorization\\commends\\handlers\\rolecommendhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FE241E0-918F-4E23-B923-14534AC491BA}|school.core\\school.core.csproj|solutionrelative:school.core\\features\\authorization\\commends\\handlers\\rolecommendhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F62CE14E-106C-4411-B57A-FAC6856DDD7B}|School.Service\\School.Service.csproj|d:\\.net\\studeying\\web api\\project\\school\\school.service\\implmentation\\authorize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F62CE14E-106C-4411-B57A-FAC6856DDD7B}|School.Service\\School.Service.csproj|solutionrelative:school.service\\implmentation\\authorize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FE241E0-918F-4E23-B923-14534AC491BA}|school.core\\school.core.csproj|d:\\.net\\studeying\\web api\\project\\school\\school.core\\features\\authorization\\querys\\result\\getroleresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FE241E0-918F-4E23-B923-14534AC491BA}|school.core\\school.core.csproj|solutionrelative:school.core\\features\\authorization\\querys\\result\\getroleresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{279AC2ED-5181-48D7-BA06-88E32F23FD9F}|SchoolApi\\SchoolApi.csproj|d:\\.net\\studeying\\web api\\project\\school\\schoolapi\\controller\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{279AC2ED-5181-48D7-BA06-88E32F23FD9F}|SchoolApi\\SchoolApi.csproj|solutionrelative:schoolapi\\controller\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{279AC2ED-5181-48D7-BA06-88E32F23FD9F}|SchoolApi\\SchoolApi.csproj|d:\\.net\\studeying\\web api\\project\\school\\schoolapi\\controller\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{279AC2ED-5181-48D7-BA06-88E32F23FD9F}|SchoolApi\\SchoolApi.csproj|solutionrelative:schoolapi\\controller\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F62CE14E-106C-4411-B57A-FAC6856DDD7B}|School.Service\\School.Service.csproj|d:\\.net\\studeying\\web api\\project\\school\\school.service\\implmentation\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F62CE14E-106C-4411-B57A-FAC6856DDD7B}|School.Service\\School.Service.csproj|solutionrelative:school.service\\implmentation\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F62CE14E-106C-4411-B57A-FAC6856DDD7B}|School.Service\\School.Service.csproj|d:\\.net\\studeying\\web api\\project\\school\\school.service\\implmentation\\authentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F62CE14E-106C-4411-B57A-FAC6856DDD7B}|School.Service\\School.Service.csproj|solutionrelative:school.service\\implmentation\\authentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7FE241E0-918F-4E23-B923-14534AC491BA}|school.core\\school.core.csproj|d:\\.net\\studeying\\web api\\project\\school\\school.core\\features\\authentication\\querys\\models\\authorizeuserquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7FE241E0-918F-4E23-B923-14534AC491BA}|school.core\\school.core.csproj|solutionrelative:school.core\\features\\authentication\\querys\\models\\authorizeuserquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7FE241E0-918F-4E23-B923-14534AC491BA}|school.core\\school.core.csproj|d:\\.net\\studeying\\web api\\project\\school\\school.core\\mapping\\authorize\\autorize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FE241E0-918F-4E23-B923-14534AC491BA}|school.core\\school.core.csproj|solutionrelative:school.core\\mapping\\authorize\\autorize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7FE241E0-918F-4E23-B923-14534AC491BA}|school.core\\school.core.csproj|d:\\.net\\studeying\\web api\\project\\school\\school.core\\features\\authentication\\commends\\models\\signincommend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7FE241E0-918F-4E23-B923-14534AC491BA}|school.core\\school.core.csproj|solutionrelative:school.core\\features\\authentication\\commends\\models\\signincommend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7FE241E0-918F-4E23-B923-14534AC491BA}|school.core\\school.core.csproj|d:\\.net\\studeying\\web api\\project\\school\\school.core\\mapping\\authorize\\querymapping\\getroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FE241E0-918F-4E23-B923-14534AC491BA}|school.core\\school.core.csproj|solutionrelative:school.core\\mapping\\authorize\\querymapping\\getroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7FE241E0-918F-4E23-B923-14534AC491BA}|school.core\\school.core.csproj|d:\\.net\\studeying\\web api\\project\\school\\school.core\\base\\responce.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7FE241E0-918F-4E23-B923-14534AC491BA}|school.core\\school.core.csproj|solutionrelative:school.core\\base\\responce.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7FE241E0-918F-4E23-B923-14534AC491BA}|school.core\\school.core.csproj|d:\\.net\\studeying\\web api\\project\\school\\school.core\\features\\authorization\\querys\\models\\getrolelistquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FE241E0-918F-4E23-B923-14534AC491BA}|school.core\\school.core.csproj|solutionrelative:school.core\\features\\authorization\\querys\\models\\getrolelistquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9656D2C5-8CF0-4973-AEAB-1A3DB46AE7C5}|school.infrstrcture\\school.infrstrcture.csproj|d:\\.net\\studeying\\web api\\project\\school\\school.infrstrcture\\repositary\\refrashtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9656D2C5-8CF0-4973-AEAB-1A3DB46AE7C5}|school.infrstrcture\\school.infrstrcture.csproj|solutionrelative:school.infrstrcture\\repositary\\refrashtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7FE241E0-918F-4E23-B923-14534AC491BA}|school.core\\school.core.csproj|d:\\.net\\studeying\\web api\\project\\school\\school.core\\mapping\\student\\commandmapping\\addstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FE241E0-918F-4E23-B923-14534AC491BA}|school.core\\school.core.csproj|solutionrelative:school.core\\mapping\\student\\commandmapping\\addstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9656D2C5-8CF0-4973-AEAB-1A3DB46AE7C5}|school.infrstrcture\\school.infrstrcture.csproj|d:\\.net\\studeying\\web api\\project\\school\\school.infrstrcture\\baseinfrstcture\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9656D2C5-8CF0-4973-AEAB-1A3DB46AE7C5}|school.infrstrcture\\school.infrstrcture.csproj|solutionrelative:school.infrstrcture\\baseinfrstcture\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7FE241E0-918F-4E23-B923-14534AC491BA}|school.core\\school.core.csproj|d:\\.net\\studeying\\web api\\project\\school\\school.core\\features\\authorization\\commends\\models\\deleterolecommend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FE241E0-918F-4E23-B923-14534AC491BA}|school.core\\school.core.csproj|solutionrelative:school.core\\features\\authorization\\commends\\models\\deleterolecommend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FE241E0-918F-4E23-B923-14534AC491BA}|school.core\\school.core.csproj|d:\\.net\\studeying\\web api\\project\\school\\school.core\\base\\responcehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FE241E0-918F-4E23-B923-14534AC491BA}|school.core\\school.core.csproj|solutionrelative:school.core\\base\\responcehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{279AC2ED-5181-48D7-BA06-88E32F23FD9F}|SchoolApi\\SchoolApi.csproj|d:\\.net\\studeying\\web api\\project\\school\\schoolapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{279AC2ED-5181-48D7-BA06-88E32F23FD9F}|SchoolApi\\SchoolApi.csproj|solutionrelative:schoolapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F62CE14E-106C-4411-B57A-FAC6856DDD7B}|School.Service\\School.Service.csproj|d:\\.net\\studeying\\web api\\project\\school\\school.service\\abstract\\iauthentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F62CE14E-106C-4411-B57A-FAC6856DDD7B}|School.Service\\School.Service.csproj|solutionrelative:school.service\\abstract\\iauthentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FE241E0-918F-4E23-B923-14534AC491BA}|school.core\\school.core.csproj|d:\\.net\\studeying\\web api\\project\\school\\school.core\\features\\authorization\\commends\\validator\\editrolevaliator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FE241E0-918F-4E23-B923-14534AC491BA}|school.core\\school.core.csproj|solutionrelative:school.core\\features\\authorization\\commends\\validator\\editrolevaliator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FE241E0-918F-4E23-B923-14534AC491BA}|school.core\\school.core.csproj|d:\\.net\\studeying\\web api\\project\\school\\school.core\\features\\authorization\\commends\\validator\\deletevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FE241E0-918F-4E23-B923-14534AC491BA}|school.core\\school.core.csproj|solutionrelative:school.core\\features\\authorization\\commends\\validator\\deletevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FE241E0-918F-4E23-B923-14534AC491BA}|school.core\\school.core.csproj|d:\\.net\\studeying\\web api\\project\\school\\school.core\\features\\authorization\\commends\\validator\\addrolevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FE241E0-918F-4E23-B923-14534AC491BA}|school.core\\school.core.csproj|solutionrelative:school.core\\features\\authorization\\commends\\validator\\addrolevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FE241E0-918F-4E23-B923-14534AC491BA}|school.core\\school.core.csproj|d:\\.net\\studeying\\web api\\project\\school\\school.core\\features\\authorization\\commends\\models\\editrolecommend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FE241E0-918F-4E23-B923-14534AC491BA}|school.core\\school.core.csproj|solutionrelative:school.core\\features\\authorization\\commends\\models\\editrolecommend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FE241E0-918F-4E23-B923-14534AC491BA}|school.core\\school.core.csproj|d:\\.net\\studeying\\web api\\project\\school\\school.core\\features\\authorization\\commends\\models\\addrolecommend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FE241E0-918F-4E23-B923-14534AC491BA}|school.core\\school.core.csproj|solutionrelative:school.core\\features\\authorization\\commends\\models\\addrolecommend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FE241E0-918F-4E23-B923-14534AC491BA}|school.core\\school.core.csproj|d:\\.net\\studeying\\web api\\project\\school\\school.core\\features\\user\\commend\\handlers\\usercommendhandeler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FE241E0-918F-4E23-B923-14534AC491BA}|school.core\\school.core.csproj|solutionrelative:school.core\\features\\user\\commend\\handlers\\usercommendhandeler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FE241E0-918F-4E23-B923-14534AC491BA}|school.core\\school.core.csproj|d:\\.net\\studeying\\web api\\project\\school\\school.core\\features\\user\\commend\\models\\addusercommend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FE241E0-918F-4E23-B923-14534AC491BA}|school.core\\school.core.csproj|solutionrelative:school.core\\features\\user\\commend\\models\\addusercommend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{279AC2ED-5181-48D7-BA06-88E32F23FD9F}|SchoolApi\\SchoolApi.csproj|d:\\.net\\studeying\\web api\\project\\school\\schoolapi\\controller\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{279AC2ED-5181-48D7-BA06-88E32F23FD9F}|SchoolApi\\SchoolApi.csproj|solutionrelative:schoolapi\\controller\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9656D2C5-8CF0-4973-AEAB-1A3DB46AE7C5}|school.infrstrcture\\school.infrstrcture.csproj|d:\\.net\\studeying\\web api\\project\\school\\school.infrstrcture\\seeder\\userseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9656D2C5-8CF0-4973-AEAB-1A3DB46AE7C5}|school.infrstrcture\\school.infrstrcture.csproj|solutionrelative:school.infrstrcture\\seeder\\userseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9656D2C5-8CF0-4973-AEAB-1A3DB46AE7C5}|school.infrstrcture\\school.infrstrcture.csproj|d:\\.net\\studeying\\web api\\project\\school\\school.infrstrcture\\seeder\\roleseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9656D2C5-8CF0-4973-AEAB-1A3DB46AE7C5}|school.infrstrcture\\school.infrstrcture.csproj|solutionrelative:school.infrstrcture\\seeder\\roleseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FE241E0-918F-4E23-B923-14534AC491BA}|school.core\\school.core.csproj|d:\\.net\\studeying\\web api\\project\\school\\school.core\\mapping\\student\\studentprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FE241E0-918F-4E23-B923-14534AC491BA}|school.core\\school.core.csproj|solutionrelative:school.core\\mapping\\student\\studentprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FE241E0-918F-4E23-B923-14534AC491BA}|school.core\\school.core.csproj|d:\\.net\\studeying\\web api\\project\\school\\school.core\\mapping\\user\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FE241E0-918F-4E23-B923-14534AC491BA}|school.core\\school.core.csproj|solutionrelative:school.core\\mapping\\user\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FE241E0-918F-4E23-B923-14534AC491BA}|school.core\\school.core.csproj|d:\\.net\\studeying\\web api\\project\\school\\school.core\\mapping\\user\\commend\\updateuserprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FE241E0-918F-4E23-B923-14534AC491BA}|school.core\\school.core.csproj|solutionrelative:school.core\\mapping\\user\\commend\\updateuserprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9656D2C5-8CF0-4973-AEAB-1A3DB46AE7C5}|school.infrstrcture\\school.infrstrcture.csproj|d:\\.net\\studeying\\web api\\project\\school\\school.infrstrcture\\serviceregisteration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -63,16 +139,96 @@
       "RelativeMoniker": "D:0:0:{9656D2C5-8CF0-4973-AEAB-1A3DB46AE7C5}|school.infrstrcture\\school.infrstrcture.csproj|solutionrelative:school.infrstrcture\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{279AC2ED-5181-48D7-BA06-88E32F23FD9F}|SchoolApi\\SchoolApi.csproj|d:\\.net\\studeying\\web api\\project\\school\\schoolapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{279AC2ED-5181-48D7-BA06-88E32F23FD9F}|SchoolApi\\SchoolApi.csproj|solutionrelative:schoolapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7FE241E0-918F-4E23-B923-14534AC491BA}|school.core\\school.core.csproj|d:\\.net\\studeying\\web api\\project\\school\\school.core\\base\\responce.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FE241E0-918F-4E23-B923-14534AC491BA}|school.core\\school.core.csproj|solutionrelative:school.core\\base\\responce.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{279AC2ED-5181-48D7-BA06-88E32F23FD9F}|SchoolApi\\SchoolApi.csproj|d:\\.net\\studeying\\web api\\project\\school\\schoolapi\\controller\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{279AC2ED-5181-48D7-BA06-88E32F23FD9F}|SchoolApi\\SchoolApi.csproj|solutionrelative:schoolapi\\controller\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7FE241E0-918F-4E23-B923-14534AC491BA}|school.core\\school.core.csproj|d:\\.net\\studeying\\web api\\project\\school\\school.core\\mapping\\student\\commandmapping\\editstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FE241E0-918F-4E23-B923-14534AC491BA}|school.core\\school.core.csproj|solutionrelative:school.core\\mapping\\student\\commandmapping\\editstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{279AC2ED-5181-48D7-BA06-88E32F23FD9F}|SchoolApi\\SchoolApi.csproj|d:\\.net\\studeying\\web api\\project\\school\\schoolapi\\controller\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{279AC2ED-5181-48D7-BA06-88E32F23FD9F}|SchoolApi\\SchoolApi.csproj|solutionrelative:schoolapi\\controller\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7FE241E0-918F-4E23-B923-14534AC491BA}|school.core\\school.core.csproj|d:\\.net\\studeying\\web api\\project\\school\\school.core\\mapping\\student\\querymapping\\getsinglestudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FE241E0-918F-4E23-B923-14534AC491BA}|school.core\\school.core.csproj|solutionrelative:school.core\\mapping\\student\\querymapping\\getsinglestudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FE241E0-918F-4E23-B923-14534AC491BA}|school.core\\school.core.csproj|d:\\.net\\studeying\\web api\\project\\school\\school.core\\mapping\\student\\querymapping\\getstudientlistmaping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FE241E0-918F-4E23-B923-14534AC491BA}|school.core\\school.core.csproj|solutionrelative:school.core\\mapping\\student\\querymapping\\getstudientlistmaping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FE241E0-918F-4E23-B923-14534AC491BA}|school.core\\school.core.csproj|d:\\.net\\studeying\\web api\\project\\school\\school.core\\mapping\\user\\commend\\adduserprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FE241E0-918F-4E23-B923-14534AC491BA}|school.core\\school.core.csproj|solutionrelative:school.core\\mapping\\user\\commend\\adduserprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FE241E0-918F-4E23-B923-14534AC491BA}|school.core\\school.core.csproj|d:\\.net\\studeying\\web api\\project\\school\\school.core\\mapping\\user\\query\\getbyid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FE241E0-918F-4E23-B923-14534AC491BA}|school.core\\school.core.csproj|solutionrelative:school.core\\mapping\\user\\query\\getbyid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FE241E0-918F-4E23-B923-14534AC491BA}|school.core\\school.core.csproj|d:\\.net\\studeying\\web api\\project\\school\\school.core\\mapping\\user\\query\\getalluser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FE241E0-918F-4E23-B923-14534AC491BA}|school.core\\school.core.csproj|solutionrelative:school.core\\mapping\\user\\query\\getalluser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{279AC2ED-5181-48D7-BA06-88E32F23FD9F}|SchoolApi\\SchoolApi.csproj|d:\\.net\\studeying\\web api\\project\\school\\schoolapi\\base\\appcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{279AC2ED-5181-48D7-BA06-88E32F23FD9F}|SchoolApi\\SchoolApi.csproj|solutionrelative:schoolapi\\base\\appcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4549F679-F9A7-4824-B92B-1784C0B386DB}|school.Data\\school.Data.csproj|d:\\.net\\studeying\\web api\\project\\school\\school.data\\dto\\editrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4549F679-F9A7-4824-B92B-1784C0B386DB}|school.Data\\school.Data.csproj|solutionrelative:school.data\\dto\\editrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4549F679-F9A7-4824-B92B-1784C0B386DB}|school.Data\\school.Data.csproj|d:\\.net\\studeying\\web api\\project\\school\\school.data\\school.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4549F679-F9A7-4824-B92B-1784C0B386DB}|school.Data\\school.Data.csproj|solutionrelative:school.data\\school.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9656D2C5-8CF0-4973-AEAB-1A3DB46AE7C5}|school.infrstrcture\\school.infrstrcture.csproj|d:\\.net\\studeying\\web api\\project\\school\\school.infrstrcture\\school.infrstrcture.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9656D2C5-8CF0-4973-AEAB-1A3DB46AE7C5}|school.infrstrcture\\school.infrstrcture.csproj|solutionrelative:school.infrstrcture\\school.infrstrcture.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F62CE14E-106C-4411-B57A-FAC6856DDD7B}|School.Service\\School.Service.csproj|d:\\.net\\studeying\\web api\\project\\school\\school.service\\implmentation\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F62CE14E-106C-4411-B57A-FAC6856DDD7B}|School.Service\\School.Service.csproj|solutionrelative:school.service\\implmentation\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F62CE14E-106C-4411-B57A-FAC6856DDD7B}|School.Service\\School.Service.csproj|d:\\.net\\studeying\\web api\\project\\school\\school.service\\moduleservicedepancies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F62CE14E-106C-4411-B57A-FAC6856DDD7B}|School.Service\\School.Service.csproj|solutionrelative:school.service\\moduleservicedepancies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F62CE14E-106C-4411-B57A-FAC6856DDD7B}|School.Service\\School.Service.csproj|d:\\.net\\studeying\\web api\\project\\school\\school.service\\abstract\\istuidentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F62CE14E-106C-4411-B57A-FAC6856DDD7B}|School.Service\\School.Service.csproj|solutionrelative:school.service\\abstract\\istuidentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FE241E0-918F-4E23-B923-14534AC491BA}|school.core\\school.core.csproj|d:\\.net\\studeying\\web api\\project\\school\\school.core\\behaviour\\validationbehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FE241E0-918F-4E23-B923-14534AC491BA}|school.core\\school.core.csproj|solutionrelative:school.core\\behaviour\\validationbehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FE241E0-918F-4E23-B923-14534AC491BA}|school.core\\school.core.csproj|d:\\.net\\studeying\\web api\\project\\school\\school.core\\features\\user\\commend\\validation\\changepasswordvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FE241E0-918F-4E23-B923-14534AC491BA}|school.core\\school.core.csproj|solutionrelative:school.core\\features\\user\\commend\\validation\\changepasswordvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FE241E0-918F-4E23-B923-14534AC491BA}|school.core\\school.core.csproj|d:\\.net\\studeying\\web api\\project\\school\\school.core\\features\\authentication\\querys\\models\\authorizeuserquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FE241E0-918F-4E23-B923-14534AC491BA}|school.core\\school.core.csproj|solutionrelative:school.core\\features\\authentication\\querys\\models\\authorizeuserquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FE241E0-918F-4E23-B923-14534AC491BA}|school.core\\school.core.csproj|d:\\.net\\studeying\\web api\\project\\school\\school.core\\features\\authentication\\commends\\validation\\signinvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FE241E0-918F-4E23-B923-14534AC491BA}|school.core\\school.core.csproj|solutionrelative:school.core\\features\\authentication\\commends\\validation\\signinvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FE241E0-918F-4E23-B923-14534AC491BA}|school.core\\school.core.csproj|d:\\.net\\studeying\\web api\\project\\school\\school.core\\features\\authentication\\commends\\handlers\\authenticationhandlers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FE241E0-918F-4E23-B923-14534AC491BA}|school.core\\school.core.csproj|solutionrelative:school.core\\features\\authentication\\commends\\handlers\\authenticationhandlers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FE241E0-918F-4E23-B923-14534AC491BA}|school.core\\school.core.csproj|d:\\.net\\studeying\\web api\\project\\school\\school.core\\features\\authentication\\querys\\handlers\\autionticationqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FE241E0-918F-4E23-B923-14534AC491BA}|school.core\\school.core.csproj|solutionrelative:school.core\\features\\authentication\\querys\\handlers\\autionticationqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FE241E0-918F-4E23-B923-14534AC491BA}|school.core\\school.core.csproj|d:\\.net\\studeying\\web api\\project\\school\\school.core\\features\\authentication\\commends\\models\\signincommend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FE241E0-918F-4E23-B923-14534AC491BA}|school.core\\school.core.csproj|solutionrelative:school.core\\features\\authentication\\commends\\models\\signincommend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9656D2C5-8CF0-4973-AEAB-1A3DB46AE7C5}|school.infrstrcture\\school.infrstrcture.csproj|d:\\.net\\studeying\\web api\\project\\school\\school.infrstrcture\\repositary\\refrashtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9656D2C5-8CF0-4973-AEAB-1A3DB46AE7C5}|school.infrstrcture\\school.infrstrcture.csproj|solutionrelative:school.infrstrcture\\repositary\\refrashtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9656D2C5-8CF0-4973-AEAB-1A3DB46AE7C5}|school.infrstrcture\\school.infrstrcture.csproj|d:\\.net\\studeying\\web api\\project\\school\\school.infrstrcture\\baseinfrstcture\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9656D2C5-8CF0-4973-AEAB-1A3DB46AE7C5}|school.infrstrcture\\school.infrstrcture.csproj|solutionrelative:school.infrstrcture\\baseinfrstcture\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7FE241E0-918F-4E23-B923-14534AC491BA}|school.core\\school.core.csproj|d:\\.net\\studeying\\web api\\project\\school\\school.core\\features\\authentication\\commends\\models\\refrashtokencommend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -95,10 +251,6 @@
       "RelativeMoniker": "D:0:0:{9656D2C5-8CF0-4973-AEAB-1A3DB46AE7C5}|school.infrstrcture\\school.infrstrcture.csproj|solutionrelative:school.infrstrcture\\moduleinfrstrcutredpencies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F62CE14E-106C-4411-B57A-FAC6856DDD7B}|School.Service\\School.Service.csproj|d:\\.net\\studeying\\web api\\project\\school\\school.service\\abstract\\istuidentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F62CE14E-106C-4411-B57A-FAC6856DDD7B}|School.Service\\School.Service.csproj|solutionrelative:school.service\\abstract\\istuidentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9656D2C5-8CF0-4973-AEAB-1A3DB46AE7C5}|school.infrstrcture\\school.infrstrcture.csproj|d:\\.net\\studeying\\web api\\project\\school\\school.infrstrcture\\repositary\\repositary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9656D2C5-8CF0-4973-AEAB-1A3DB46AE7C5}|school.infrstrcture\\school.infrstrcture.csproj|solutionrelative:school.infrstrcture\\repositary\\repositary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -115,14 +267,6 @@
       "RelativeMoniker": "D:0:0:{4549F679-F9A7-4824-B92B-1784C0B386DB}|school.Data\\school.Data.csproj|solutionrelative:school.data\\entites\\identity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7FE241E0-918F-4E23-B923-14534AC491BA}|school.core\\school.core.csproj|d:\\.net\\studeying\\web api\\project\\school\\school.core\\features\\user\\commend\\handlers\\usercommendhandeler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7FE241E0-918F-4E23-B923-14534AC491BA}|school.core\\school.core.csproj|solutionrelative:school.core\\features\\user\\commend\\handlers\\usercommendhandeler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4549F679-F9A7-4824-B92B-1784C0B386DB}|school.Data\\school.Data.csproj|d:\\.net\\studeying\\web api\\project\\school\\school.data\\school.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{4549F679-F9A7-4824-B92B-1784C0B386DB}|school.Data\\school.Data.csproj|solutionrelative:school.data\\school.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4549F679-F9A7-4824-B92B-1784C0B386DB}|school.Data\\school.Data.csproj|d:\\.net\\studeying\\web api\\project\\school\\school.data\\entites\\subjectstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4549F679-F9A7-4824-B92B-1784C0B386DB}|school.Data\\school.Data.csproj|solutionrelative:school.data\\entites\\subjectstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -133,54 +277,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{7FE241E0-918F-4E23-B923-14534AC491BA}|school.core\\school.core.csproj|d:\\.net\\studeying\\web api\\project\\school\\school.core\\modulecoredependices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7FE241E0-918F-4E23-B923-14534AC491BA}|school.core\\school.core.csproj|solutionrelative:school.core\\modulecoredependices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F62CE14E-106C-4411-B57A-FAC6856DDD7B}|School.Service\\School.Service.csproj|d:\\.net\\studeying\\web api\\project\\school\\school.service\\moduleservicedepancies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F62CE14E-106C-4411-B57A-FAC6856DDD7B}|School.Service\\School.Service.csproj|solutionrelative:school.service\\moduleservicedepancies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{279AC2ED-5181-48D7-BA06-88E32F23FD9F}|SchoolApi\\SchoolApi.csproj|d:\\.net\\studeying\\web api\\project\\school\\schoolapi\\base\\appcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{279AC2ED-5181-48D7-BA06-88E32F23FD9F}|SchoolApi\\SchoolApi.csproj|solutionrelative:schoolapi\\base\\appcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7FE241E0-918F-4E23-B923-14534AC491BA}|school.core\\school.core.csproj|d:\\.net\\studeying\\web api\\project\\school\\school.core\\mapping\\student\\studentprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7FE241E0-918F-4E23-B923-14534AC491BA}|school.core\\school.core.csproj|solutionrelative:school.core\\mapping\\student\\studentprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7FE241E0-918F-4E23-B923-14534AC491BA}|school.core\\school.core.csproj|d:\\.net\\studeying\\web api\\project\\school\\school.core\\mapping\\student\\commandmapping\\editstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7FE241E0-918F-4E23-B923-14534AC491BA}|school.core\\school.core.csproj|solutionrelative:school.core\\mapping\\student\\commandmapping\\editstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7FE241E0-918F-4E23-B923-14534AC491BA}|school.core\\school.core.csproj|d:\\.net\\studeying\\web api\\project\\school\\school.core\\mapping\\student\\commandmapping\\addstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7FE241E0-918F-4E23-B923-14534AC491BA}|school.core\\school.core.csproj|solutionrelative:school.core\\mapping\\student\\commandmapping\\addstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7FE241E0-918F-4E23-B923-14534AC491BA}|school.core\\school.core.csproj|d:\\.net\\studeying\\web api\\project\\school\\school.core\\mapping\\student\\querymapping\\getsinglestudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7FE241E0-918F-4E23-B923-14534AC491BA}|school.core\\school.core.csproj|solutionrelative:school.core\\mapping\\student\\querymapping\\getsinglestudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7FE241E0-918F-4E23-B923-14534AC491BA}|school.core\\school.core.csproj|d:\\.net\\studeying\\web api\\project\\school\\school.core\\mapping\\student\\querymapping\\getstudientlistmaping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7FE241E0-918F-4E23-B923-14534AC491BA}|school.core\\school.core.csproj|solutionrelative:school.core\\mapping\\student\\querymapping\\getstudientlistmaping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7FE241E0-918F-4E23-B923-14534AC491BA}|school.core\\school.core.csproj|d:\\.net\\studeying\\web api\\project\\school\\school.core\\mapping\\user\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7FE241E0-918F-4E23-B923-14534AC491BA}|school.core\\school.core.csproj|solutionrelative:school.core\\mapping\\user\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7FE241E0-918F-4E23-B923-14534AC491BA}|school.core\\school.core.csproj|d:\\.net\\studeying\\web api\\project\\school\\school.core\\mapping\\user\\commend\\adduserprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7FE241E0-918F-4E23-B923-14534AC491BA}|school.core\\school.core.csproj|solutionrelative:school.core\\mapping\\user\\commend\\adduserprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7FE241E0-918F-4E23-B923-14534AC491BA}|school.core\\school.core.csproj|d:\\.net\\studeying\\web api\\project\\school\\school.core\\mapping\\user\\query\\getbyid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7FE241E0-918F-4E23-B923-14534AC491BA}|school.core\\school.core.csproj|solutionrelative:school.core\\mapping\\user\\query\\getbyid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7FE241E0-918F-4E23-B923-14534AC491BA}|school.core\\school.core.csproj|d:\\.net\\studeying\\web api\\project\\school\\school.core\\mapping\\user\\query\\getalluser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7FE241E0-918F-4E23-B923-14534AC491BA}|school.core\\school.core.csproj|solutionrelative:school.core\\mapping\\user\\query\\getalluser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7FE241E0-918F-4E23-B923-14534AC491BA}|school.core\\school.core.csproj|d:\\.net\\studeying\\web api\\project\\school\\school.core\\mapping\\user\\commend\\updateuserprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7FE241E0-918F-4E23-B923-14534AC491BA}|school.core\\school.core.csproj|solutionrelative:school.core\\mapping\\user\\commend\\updateuserprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7FE241E0-918F-4E23-B923-14534AC491BA}|school.core\\school.core.csproj|d:\\.net\\studeying\\web api\\project\\school\\school.core\\features\\user\\commend\\validation\\adduservalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -195,24 +291,8 @@
       "RelativeMoniker": "D:0:0:{F62CE14E-106C-4411-B57A-FAC6856DDD7B}|School.Service\\School.Service.csproj|solutionrelative:school.service\\school.service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7FE241E0-918F-4E23-B923-14534AC491BA}|school.core\\school.core.csproj|d:\\.net\\studeying\\web api\\project\\school\\school.core\\features\\authentication\\commends\\validation\\signinvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7FE241E0-918F-4E23-B923-14534AC491BA}|school.core\\school.core.csproj|solutionrelative:school.core\\features\\authentication\\commends\\validation\\signinvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4549F679-F9A7-4824-B92B-1784C0B386DB}|school.Data\\school.Data.csproj|d:\\.net\\studeying\\web api\\project\\school\\school.data\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4549F679-F9A7-4824-B92B-1784C0B386DB}|school.Data\\school.Data.csproj|solutionrelative:school.data\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9656D2C5-8CF0-4973-AEAB-1A3DB46AE7C5}|school.infrstrcture\\school.infrstrcture.csproj|d:\\.net\\studeying\\web api\\project\\school\\school.infrstrcture\\school.infrstrcture.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{9656D2C5-8CF0-4973-AEAB-1A3DB46AE7C5}|school.infrstrcture\\school.infrstrcture.csproj|solutionrelative:school.infrstrcture\\school.infrstrcture.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7FE241E0-918F-4E23-B923-14534AC491BA}|school.core\\school.core.csproj|d:\\.net\\studeying\\web api\\project\\school\\school.core\\features\\user\\commend\\models\\addusercommend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7FE241E0-918F-4E23-B923-14534AC491BA}|school.core\\school.core.csproj|solutionrelative:school.core\\features\\user\\commend\\models\\addusercommend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7FE241E0-918F-4E23-B923-14534AC491BA}|school.core\\school.core.csproj|d:\\.net\\studeying\\web api\\project\\school\\school.core\\features\\user\\commend\\validation\\changepasswordvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7FE241E0-918F-4E23-B923-14534AC491BA}|school.core\\school.core.csproj|solutionrelative:school.core\\features\\user\\commend\\validation\\changepasswordvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7FE241E0-918F-4E23-B923-14534AC491BA}|school.core\\school.core.csproj|d:\\.net\\studeying\\web api\\project\\school\\school.core\\features\\user\\commend\\models\\changepasswordcommend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -371,10 +451,6 @@
       "RelativeMoniker": "D:0:0:{4549F679-F9A7-4824-B92B-1784C0B386DB}|school.Data\\school.Data.csproj|solutionrelative:school.data\\entites\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7FE241E0-918F-4E23-B923-14534AC491BA}|school.core\\school.core.csproj|d:\\.net\\studeying\\web api\\project\\school\\school.core\\behaviour\\validationbehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7FE241E0-918F-4E23-B923-14534AC491BA}|school.core\\school.core.csproj|solutionrelative:school.core\\behaviour\\validationbehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{279AC2ED-5181-48D7-BA06-88E32F23FD9F}|SchoolApi\\SchoolApi.csproj|d:\\.net\\studeying\\web api\\project\\school\\schoolapi\\schoolapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
       "RelativeMoniker": "D:0:0:{279AC2ED-5181-48D7-BA06-88E32F23FD9F}|SchoolApi\\SchoolApi.csproj|solutionrelative:schoolapi\\schoolapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     },
@@ -414,7 +490,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 13,
+          "SelectedChildIndex": 79,
           "Children": [
             {
               "$type": "Bookmark",
@@ -426,7 +502,235 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GetRolebyId.cs",
+              "DocumentMoniker": "D:\\.Net\\Studeying\\web api\\project\\School\\school.core\\features\\Authorization\\Querys\\models\\GetRolebyId.cs",
+              "RelativeDocumentMoniker": "school.core\\features\\Authorization\\Querys\\models\\GetRolebyId.cs",
+              "ToolTip": "D:\\.Net\\Studeying\\web api\\project\\School\\school.core\\features\\Authorization\\Querys\\models\\GetRolebyId.cs",
+              "RelativeToolTip": "school.core\\features\\Authorization\\Querys\\models\\GetRolebyId.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T09:28:52.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GetRoles.cs",
+              "DocumentMoniker": "D:\\.Net\\Studeying\\web api\\project\\School\\school.core\\Mapping\\Authorize\\QueryMapping\\GetRoles.cs",
+              "RelativeDocumentMoniker": "school.core\\Mapping\\Authorize\\QueryMapping\\GetRoles.cs",
+              "ToolTip": "D:\\.Net\\Studeying\\web api\\project\\School\\school.core\\Mapping\\Authorize\\QueryMapping\\GetRoles.cs",
+              "RelativeToolTip": "school.core\\Mapping\\Authorize\\QueryMapping\\GetRoles.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T09:13:51.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Autorize.cs",
+              "DocumentMoniker": "D:\\.Net\\Studeying\\web api\\project\\School\\school.core\\Mapping\\Authorize\\Autorize.cs",
+              "RelativeDocumentMoniker": "school.core\\Mapping\\Authorize\\Autorize.cs",
+              "ToolTip": "D:\\.Net\\Studeying\\web api\\project\\School\\school.core\\Mapping\\Authorize\\Autorize.cs",
+              "RelativeToolTip": "school.core\\Mapping\\Authorize\\Autorize.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T09:13:12.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RoleQueryHandler.cs",
+              "DocumentMoniker": "D:\\.Net\\Studeying\\web api\\project\\School\\school.core\\features\\Authorization\\Querys\\Handlers\\RoleQueryHandler.cs",
+              "RelativeDocumentMoniker": "school.core\\features\\Authorization\\Querys\\Handlers\\RoleQueryHandler.cs",
+              "ToolTip": "D:\\.Net\\Studeying\\web api\\project\\School\\school.core\\features\\Authorization\\Querys\\Handlers\\RoleQueryHandler.cs",
+              "RelativeToolTip": "school.core\\features\\Authorization\\Querys\\Handlers\\RoleQueryHandler.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAB8AAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T09:04:13.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "GetRoleListQuery.cs",
+              "DocumentMoniker": "D:\\.Net\\Studeying\\web api\\project\\School\\school.core\\features\\Authorization\\Querys\\models\\GetRoleListQuery.cs",
+              "RelativeDocumentMoniker": "school.core\\features\\Authorization\\Querys\\models\\GetRoleListQuery.cs",
+              "ToolTip": "D:\\.Net\\Studeying\\web api\\project\\School\\school.core\\features\\Authorization\\Querys\\models\\GetRoleListQuery.cs",
+              "RelativeToolTip": "school.core\\features\\Authorization\\Querys\\models\\GetRoleListQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T09:01:57.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GetRoleResult.cs",
+              "DocumentMoniker": "D:\\.Net\\Studeying\\web api\\project\\School\\school.core\\features\\Authorization\\Querys\\Result\\GetRoleResult.cs",
+              "RelativeDocumentMoniker": "school.core\\features\\Authorization\\Querys\\Result\\GetRoleResult.cs",
+              "ToolTip": "D:\\.Net\\Studeying\\web api\\project\\School\\school.core\\features\\Authorization\\Querys\\Result\\GetRoleResult.cs",
+              "RelativeToolTip": "school.core\\features\\Authorization\\Querys\\Result\\GetRoleResult.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T09:01:27.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "DeleteValidator.cs",
+              "DocumentMoniker": "D:\\.Net\\Studeying\\web api\\project\\School\\school.core\\features\\Authorization\\commends\\validator\\DeleteValidator.cs",
+              "RelativeDocumentMoniker": "school.core\\features\\Authorization\\commends\\validator\\DeleteValidator.cs",
+              "ToolTip": "D:\\.Net\\Studeying\\web api\\project\\School\\school.core\\features\\Authorization\\commends\\validator\\DeleteValidator.cs",
+              "RelativeToolTip": "school.core\\features\\Authorization\\commends\\validator\\DeleteValidator.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAYAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T06:56:31.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DeleteRoleCommend.cs",
+              "DocumentMoniker": "D:\\.Net\\Studeying\\web api\\project\\School\\school.core\\features\\Authorization\\commends\\models\\DeleteRoleCommend.cs",
+              "RelativeDocumentMoniker": "school.core\\features\\Authorization\\commends\\models\\DeleteRoleCommend.cs",
+              "ToolTip": "D:\\.Net\\Studeying\\web api\\project\\School\\school.core\\features\\Authorization\\commends\\models\\DeleteRoleCommend.cs",
+              "RelativeToolTip": "school.core\\features\\Authorization\\commends\\models\\DeleteRoleCommend.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAsAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T06:54:58.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "EditRole.cs",
+              "DocumentMoniker": "D:\\.Net\\Studeying\\web api\\project\\School\\school.Data\\Dto\\EditRole.cs",
+              "RelativeDocumentMoniker": "school.Data\\Dto\\EditRole.cs",
+              "ToolTip": "D:\\.Net\\Studeying\\web api\\project\\School\\school.Data\\Dto\\EditRole.cs",
+              "RelativeToolTip": "school.Data\\Dto\\EditRole.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T22:48:44.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "EditRoleValiator.cs",
+              "DocumentMoniker": "D:\\.Net\\Studeying\\web api\\project\\School\\school.core\\features\\Authorization\\commends\\validator\\EditRoleValiator.cs",
+              "RelativeDocumentMoniker": "school.core\\features\\Authorization\\commends\\validator\\EditRoleValiator.cs",
+              "ToolTip": "D:\\.Net\\Studeying\\web api\\project\\School\\school.core\\features\\Authorization\\commends\\validator\\EditRoleValiator.cs",
+              "RelativeToolTip": "school.core\\features\\Authorization\\commends\\validator\\EditRoleValiator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T22:33:08.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "EditRoleCommend.cs",
+              "DocumentMoniker": "D:\\.Net\\Studeying\\web api\\project\\School\\school.core\\features\\Authorization\\commends\\models\\EditRoleCommend.cs",
+              "RelativeDocumentMoniker": "school.core\\features\\Authorization\\commends\\models\\EditRoleCommend.cs",
+              "ToolTip": "D:\\.Net\\Studeying\\web api\\project\\School\\school.core\\features\\Authorization\\commends\\models\\EditRoleCommend.cs",
+              "RelativeToolTip": "school.core\\features\\Authorization\\commends\\models\\EditRoleCommend.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T22:31:29.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "RoleSeeder.cs",
+              "DocumentMoniker": "D:\\.Net\\Studeying\\web api\\project\\School\\school.infrstrcture\\Seeder\\RoleSeeder.cs",
+              "RelativeDocumentMoniker": "school.infrstrcture\\Seeder\\RoleSeeder.cs",
+              "ToolTip": "D:\\.Net\\Studeying\\web api\\project\\School\\school.infrstrcture\\Seeder\\RoleSeeder.cs",
+              "RelativeToolTip": "school.infrstrcture\\Seeder\\RoleSeeder.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T21:42:01.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "UserSeeder.cs",
+              "DocumentMoniker": "D:\\.Net\\Studeying\\web api\\project\\School\\school.infrstrcture\\Seeder\\UserSeeder.cs",
+              "RelativeDocumentMoniker": "school.infrstrcture\\Seeder\\UserSeeder.cs",
+              "ToolTip": "D:\\.Net\\Studeying\\web api\\project\\School\\school.infrstrcture\\Seeder\\UserSeeder.cs",
+              "RelativeToolTip": "school.infrstrcture\\Seeder\\UserSeeder.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBUAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T21:06:03.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthorizationController.cs",
+              "DocumentMoniker": "D:\\.Net\\Studeying\\web api\\project\\School\\SchoolApi\\controller\\AuthorizationController.cs",
+              "RelativeDocumentMoniker": "SchoolApi\\controller\\AuthorizationController.cs",
+              "ToolTip": "D:\\.Net\\Studeying\\web api\\project\\School\\SchoolApi\\controller\\AuthorizationController.cs",
+              "RelativeToolTip": "SchoolApi\\controller\\AuthorizationController.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAACYAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T09:40:49.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Authorize.cs",
+              "DocumentMoniker": "D:\\.Net\\Studeying\\web api\\project\\School\\School.Service\\implmentation\\Authorize.cs",
+              "RelativeDocumentMoniker": "School.Service\\implmentation\\Authorize.cs",
+              "ToolTip": "D:\\.Net\\Studeying\\web api\\project\\School\\School.Service\\implmentation\\Authorize.cs",
+              "RelativeToolTip": "School.Service\\implmentation\\Authorize.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAAAFwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T08:48:14.325Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "IAuthorize.cs",
+              "DocumentMoniker": "D:\\.Net\\Studeying\\web api\\project\\School\\School.Service\\abstract\\IAuthorize.cs",
+              "RelativeDocumentMoniker": "School.Service\\abstract\\IAuthorize.cs",
+              "ToolTip": "D:\\.Net\\Studeying\\web api\\project\\School\\School.Service\\abstract\\IAuthorize.cs",
+              "RelativeToolTip": "School.Service\\abstract\\IAuthorize.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T08:47:36.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RoleCommendHandler.cs",
+              "DocumentMoniker": "D:\\.Net\\Studeying\\web api\\project\\School\\school.core\\features\\Authorization\\commends\\Handlers\\RoleCommendHandler.cs",
+              "RelativeDocumentMoniker": "school.core\\features\\Authorization\\commends\\Handlers\\RoleCommendHandler.cs",
+              "ToolTip": "D:\\.Net\\Studeying\\web api\\project\\School\\school.core\\features\\Authorization\\commends\\Handlers\\RoleCommendHandler.cs",
+              "RelativeToolTip": "school.core\\features\\Authorization\\commends\\Handlers\\RoleCommendHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T08:31:24.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AddRoleValidator.cs",
+              "DocumentMoniker": "D:\\.Net\\Studeying\\web api\\project\\School\\school.core\\features\\Authorization\\commends\\validator\\AddRoleValidator.cs",
+              "RelativeDocumentMoniker": "school.core\\features\\Authorization\\commends\\validator\\AddRoleValidator.cs",
+              "ToolTip": "D:\\.Net\\Studeying\\web api\\project\\School\\school.core\\features\\Authorization\\commends\\validator\\AddRoleValidator.cs",
+              "RelativeToolTip": "school.core\\features\\Authorization\\commends\\validator\\AddRoleValidator.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAYwCAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T08:24:14.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AddRoleCommend.cs",
+              "DocumentMoniker": "D:\\.Net\\Studeying\\web api\\project\\School\\school.core\\features\\Authorization\\commends\\models\\AddRoleCommend.cs",
+              "RelativeDocumentMoniker": "school.core\\features\\Authorization\\commends\\models\\AddRoleCommend.cs",
+              "ToolTip": "D:\\.Net\\Studeying\\web api\\project\\School\\school.core\\features\\Authorization\\commends\\models\\AddRoleCommend.cs",
+              "RelativeToolTip": "school.core\\features\\Authorization\\commends\\models\\AddRoleCommend.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T08:22:18.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
               "Title": "AutionticationQueryHandler.cs",
               "DocumentMoniker": "D:\\.Net\\Studeying\\web api\\project\\School\\school.core\\features\\Authentication\\Querys\\Handlers\\AutionticationQueryHandler.cs",
               "RelativeDocumentMoniker": "school.core\\features\\Authentication\\Querys\\Handlers\\AutionticationQueryHandler.cs",
@@ -434,12 +738,11 @@
               "RelativeToolTip": "school.core\\features\\Authentication\\Querys\\Handlers\\AutionticationQueryHandler.cs",
               "ViewState": "AQIAAAQAAAAAAAAAAAAAABYAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-19T10:00:47.538Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-19T10:00:47.538Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 50,
               "Title": "AuthorizeUserQuery.cs",
               "DocumentMoniker": "D:\\.Net\\Studeying\\web api\\project\\School\\school.core\\features\\Authentication\\Querys\\models\\AuthorizeUserQuery.cs",
               "RelativeDocumentMoniker": "school.core\\features\\Authentication\\Querys\\models\\AuthorizeUserQuery.cs",
@@ -451,7 +754,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 57,
               "Title": "RefrashTokenCommend.cs",
               "DocumentMoniker": "D:\\.Net\\Studeying\\web api\\project\\School\\school.core\\features\\Authentication\\commends\\models\\RefrashTokenCommend.cs",
               "RelativeDocumentMoniker": "school.core\\features\\Authentication\\commends\\models\\RefrashTokenCommend.cs",
@@ -463,7 +766,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 55,
               "Title": "Refrashtoken.cs",
               "DocumentMoniker": "D:\\.Net\\Studeying\\web api\\project\\School\\school.infrstrcture\\Repositary\\Refrashtoken.cs",
               "RelativeDocumentMoniker": "school.infrstrcture\\Repositary\\Refrashtoken.cs",
@@ -475,7 +778,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 60,
               "Title": "IrefrashToken.cs",
               "DocumentMoniker": "D:\\.Net\\Studeying\\web api\\project\\School\\school.infrstrcture\\abstract\\IrefrashToken.cs",
               "RelativeDocumentMoniker": "school.infrstrcture\\abstract\\IrefrashToken.cs",
@@ -487,7 +790,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 100,
+              "DocumentIndex": 119,
               "Title": "20250116235009_Addrefrattoken.cs",
               "DocumentMoniker": "D:\\.Net\\Studeying\\web api\\project\\School\\school.infrstrcture\\Migrations\\20250116235009_Addrefrattoken.cs",
               "RelativeDocumentMoniker": "school.infrstrcture\\Migrations\\20250116235009_Addrefrattoken.cs",
@@ -499,7 +802,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 59,
               "Title": "UserRefreshToken.cs",
               "DocumentMoniker": "D:\\.Net\\Studeying\\web api\\project\\School\\school.Data\\Entites\\identity\\UserRefreshToken.cs",
               "RelativeDocumentMoniker": "school.Data\\Entites\\identity\\UserRefreshToken.cs",
@@ -511,7 +814,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 58,
               "Title": "jwtAuthenticationResult.cs",
               "DocumentMoniker": "D:\\.Net\\Studeying\\web api\\project\\School\\school.Data\\Helper\\jwtAuthenticationResult.cs",
               "RelativeDocumentMoniker": "school.Data\\Helper\\jwtAuthenticationResult.cs",
@@ -523,58 +826,55 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "AuthenticationController.cs",
               "DocumentMoniker": "D:\\.Net\\Studeying\\web api\\project\\School\\SchoolApi\\controller\\AuthenticationController.cs",
               "RelativeDocumentMoniker": "SchoolApi\\controller\\AuthenticationController.cs",
               "ToolTip": "D:\\.Net\\Studeying\\web api\\project\\School\\SchoolApi\\controller\\AuthenticationController.cs",
               "RelativeToolTip": "SchoolApi\\controller\\AuthenticationController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAA6AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA5AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-14T09:12:35.209Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 10,
               "Title": "Authentication.cs",
               "DocumentMoniker": "D:\\.Net\\Studeying\\web api\\project\\School\\School.Service\\implmentation\\Authentication.cs",
               "RelativeDocumentMoniker": "School.Service\\implmentation\\Authentication.cs",
               "ToolTip": "D:\\.Net\\Studeying\\web api\\project\\School\\School.Service\\implmentation\\Authentication.cs",
               "RelativeToolTip": "School.Service\\implmentation\\Authentication.cs",
-              "ViewState": "AQIAACIAAAAAAAAAAAAAAJwAAACBAAAA",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAAEIAAABSAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-14T05:46:04.447Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-14T05:46:04.447Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 18,
               "Title": "IAuthentication.cs",
               "DocumentMoniker": "D:\\.Net\\Studeying\\web api\\project\\School\\School.Service\\abstract\\IAuthentication.cs",
               "RelativeDocumentMoniker": "School.Service\\abstract\\IAuthentication.cs",
               "ToolTip": "D:\\.Net\\Studeying\\web api\\project\\School\\School.Service\\abstract\\IAuthentication.cs",
               "RelativeToolTip": "School.Service\\abstract\\IAuthentication.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAwAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAYAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-14T05:45:56.318Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-14T05:45:56.318Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 52,
               "Title": "AuthenticationHandlers.cs",
               "DocumentMoniker": "D:\\.Net\\Studeying\\web api\\project\\School\\school.core\\features\\Authentication\\commends\\Handlers\\AuthenticationHandlers.cs",
               "RelativeDocumentMoniker": "school.core\\features\\Authentication\\commends\\Handlers\\AuthenticationHandlers.cs",
               "ToolTip": "D:\\.Net\\Studeying\\web api\\project\\School\\school.core\\features\\Authentication\\commends\\Handlers\\AuthenticationHandlers.cs",
               "RelativeToolTip": "school.core\\features\\Authentication\\commends\\Handlers\\AuthenticationHandlers.cs",
-              "ViewState": "AQIAACYAAAAAAAAAAAAAADEAAABxAAAA",
+              "ViewState": "AQIAACYAAAAAAAAAAAAAAEIAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-11T14:19:06.449Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-11T14:19:06.449Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 51,
               "Title": "SignInValidator.cs",
               "DocumentMoniker": "D:\\.Net\\Studeying\\web api\\project\\School\\school.core\\features\\Authentication\\commends\\validation\\SignInValidator.cs",
               "RelativeDocumentMoniker": "school.core\\features\\Authentication\\commends\\validation\\SignInValidator.cs",
@@ -586,7 +886,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 54,
               "Title": "SignInCommend.cs",
               "DocumentMoniker": "D:\\.Net\\Studeying\\web api\\project\\School\\school.core\\features\\Authentication\\commends\\models\\SignInCommend.cs",
               "RelativeDocumentMoniker": "school.core\\features\\Authentication\\commends\\models\\SignInCommend.cs",
@@ -598,19 +898,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 52,
+              "DocumentIndex": 49,
               "Title": "ChangePasswordvalidation.cs",
               "DocumentMoniker": "D:\\.Net\\Studeying\\web api\\project\\School\\school.core\\features\\user\\commend\\validation\\ChangePasswordvalidation.cs",
               "RelativeDocumentMoniker": "school.core\\features\\user\\commend\\validation\\ChangePasswordvalidation.cs",
               "ToolTip": "D:\\.Net\\Studeying\\web api\\project\\School\\school.core\\features\\user\\commend\\validation\\ChangePasswordvalidation.cs",
               "RelativeToolTip": "school.core\\features\\user\\commend\\validation\\ChangePasswordvalidation.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAABKAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAABHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-09T03:01:03.101Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 53,
+              "DocumentIndex": 73,
               "Title": "ChangePasswordCommend.cs",
               "DocumentMoniker": "D:\\.Net\\Studeying\\web api\\project\\School\\school.core\\features\\user\\commend\\models\\ChangePasswordCommend.cs",
               "RelativeDocumentMoniker": "school.core\\features\\user\\commend\\models\\ChangePasswordCommend.cs",
@@ -622,7 +922,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 55,
+              "DocumentIndex": 75,
               "Title": "DeleteUserCommend.cs",
               "DocumentMoniker": "D:\\.Net\\Studeying\\web api\\project\\School\\school.core\\features\\user\\commend\\models\\DeleteUserCommend.cs",
               "RelativeDocumentMoniker": "school.core\\features\\user\\commend\\models\\DeleteUserCommend.cs",
@@ -634,7 +934,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 31,
               "Title": "UpdateUserProfile.cs",
               "DocumentMoniker": "D:\\.Net\\Studeying\\web api\\project\\School\\school.core\\Mapping\\user\\commend\\UpdateUserProfile.cs",
               "RelativeDocumentMoniker": "school.core\\Mapping\\user\\commend\\UpdateUserProfile.cs",
@@ -646,7 +946,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 54,
+              "DocumentIndex": 74,
               "Title": "UpdateUserValidation.cs",
               "DocumentMoniker": "D:\\.Net\\Studeying\\web api\\project\\School\\school.core\\features\\user\\commend\\validation\\UpdateUserValidation.cs",
               "RelativeDocumentMoniker": "school.core\\features\\user\\commend\\validation\\UpdateUserValidation.cs",
@@ -658,7 +958,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 56,
+              "DocumentIndex": 76,
               "Title": "UpdateUserCommend.cs",
               "DocumentMoniker": "D:\\.Net\\Studeying\\web api\\project\\School\\school.core\\features\\user\\commend\\models\\UpdateUserCommend.cs",
               "RelativeDocumentMoniker": "school.core\\features\\user\\commend\\models\\UpdateUserCommend.cs",
@@ -670,7 +970,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 39,
               "Title": "GetById.cs",
               "DocumentMoniker": "D:\\.Net\\Studeying\\web api\\project\\School\\school.core\\Mapping\\user\\Query\\GetById.cs",
               "RelativeDocumentMoniker": "school.core\\Mapping\\user\\Query\\GetById.cs",
@@ -682,7 +982,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 60,
+              "DocumentIndex": 80,
               "Title": "GetUserByid.cs",
               "DocumentMoniker": "D:\\.Net\\Studeying\\web api\\project\\School\\school.core\\features\\user\\Query\\Result\\GetUserByid.cs",
               "RelativeDocumentMoniker": "school.core\\features\\user\\Query\\Result\\GetUserByid.cs",
@@ -694,7 +994,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 59,
+              "DocumentIndex": 79,
               "Title": "GetUseById.cs",
               "DocumentMoniker": "D:\\.Net\\Studeying\\web api\\project\\School\\school.core\\features\\user\\Query\\models\\GetUseById.cs",
               "RelativeDocumentMoniker": "school.core\\features\\user\\Query\\models\\GetUseById.cs",
@@ -706,7 +1006,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 40,
               "Title": "GetAllUser.cs",
               "DocumentMoniker": "D:\\.Net\\Studeying\\web api\\project\\School\\school.core\\Mapping\\user\\Query\\GetAllUser.cs",
               "RelativeDocumentMoniker": "school.core\\Mapping\\user\\Query\\GetAllUser.cs",
@@ -718,7 +1018,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 57,
+              "DocumentIndex": 77,
               "Title": "userQueryHandeler.cs",
               "DocumentMoniker": "D:\\.Net\\Studeying\\web api\\project\\School\\school.core\\features\\user\\Query\\Handlers\\userQueryHandeler.cs",
               "RelativeDocumentMoniker": "school.core\\features\\user\\Query\\Handlers\\userQueryHandeler.cs",
@@ -730,7 +1030,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 64,
+              "DocumentIndex": 84,
               "Title": "GetUserList.cs",
               "DocumentMoniker": "D:\\.Net\\Studeying\\web api\\project\\School\\school.core\\features\\user\\Query\\models\\GetUserList.cs",
               "RelativeDocumentMoniker": "school.core\\features\\user\\Query\\models\\GetUserList.cs",
@@ -742,7 +1042,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 61,
+              "DocumentIndex": 81,
               "Title": "GetUserListResponse.cs",
               "DocumentMoniker": "D:\\.Net\\Studeying\\web api\\project\\School\\school.core\\features\\user\\Query\\Result\\GetUserListResponse.cs",
               "RelativeDocumentMoniker": "school.core\\features\\user\\Query\\Result\\GetUserListResponse.cs",
@@ -754,19 +1054,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 8,
               "Title": "UserController.cs",
               "DocumentMoniker": "D:\\.Net\\Studeying\\web api\\project\\School\\SchoolApi\\controller\\UserController.cs",
               "RelativeDocumentMoniker": "SchoolApi\\controller\\UserController.cs",
               "ToolTip": "D:\\.Net\\Studeying\\web api\\project\\School\\SchoolApi\\controller\\UserController.cs",
               "RelativeToolTip": "SchoolApi\\controller\\UserController.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAWwAoAAAAAAAAA",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABUAAAA/AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-08T01:59:27.097Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 38,
               "Title": "AddUserProfile.cs",
               "DocumentMoniker": "D:\\.Net\\Studeying\\web api\\project\\School\\school.core\\Mapping\\user\\commend\\AddUserProfile.cs",
               "RelativeDocumentMoniker": "school.core\\Mapping\\user\\commend\\AddUserProfile.cs",
@@ -778,7 +1078,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 30,
               "Title": "User.cs",
               "DocumentMoniker": "D:\\.Net\\Studeying\\web api\\project\\School\\school.core\\Mapping\\user\\User.cs",
               "RelativeDocumentMoniker": "school.core\\Mapping\\user\\User.cs",
@@ -790,19 +1090,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 24,
               "Title": "UserCommendHandeler.cs",
               "DocumentMoniker": "D:\\.Net\\Studeying\\web api\\project\\School\\school.core\\features\\user\\commend\\Handlers\\UserCommendHandeler.cs",
               "RelativeDocumentMoniker": "school.core\\features\\user\\commend\\Handlers\\UserCommendHandeler.cs",
               "ToolTip": "D:\\.Net\\Studeying\\web api\\project\\School\\school.core\\features\\user\\commend\\Handlers\\UserCommendHandeler.cs",
               "RelativeToolTip": "school.core\\features\\user\\commend\\Handlers\\UserCommendHandeler.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAAFgAAAA8AAAA",
+              "ViewState": "AQIAAFkAAAAAAAAAAAAAAGcAAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-07T02:13:27.286Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 69,
               "Title": "AddUserValidator.cs",
               "DocumentMoniker": "D:\\.Net\\Studeying\\web api\\project\\School\\school.core\\features\\user\\commend\\validation\\AddUserValidator.cs",
               "RelativeDocumentMoniker": "school.core\\features\\user\\commend\\validation\\AddUserValidator.cs",
@@ -814,19 +1114,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 51,
+              "DocumentIndex": 25,
               "Title": "AddUserCommend.cs",
               "DocumentMoniker": "D:\\.Net\\Studeying\\web api\\project\\School\\school.core\\features\\user\\commend\\models\\AddUserCommend.cs",
               "RelativeDocumentMoniker": "school.core\\features\\user\\commend\\models\\AddUserCommend.cs",
               "ToolTip": "D:\\.Net\\Studeying\\web api\\project\\School\\school.core\\features\\user\\commend\\models\\AddUserCommend.cs",
               "RelativeToolTip": "school.core\\features\\user\\commend\\models\\AddUserCommend.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAArAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAUAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-07T01:00:36.892Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 99,
+              "DocumentIndex": 118,
               "Title": "20250107002912_AddFullName.cs",
               "DocumentMoniker": "D:\\.Net\\Studeying\\web api\\project\\School\\school.infrstrcture\\Migrations\\20250107002912_AddFullName.cs",
               "RelativeDocumentMoniker": "school.infrstrcture\\Migrations\\20250107002912_AddFullName.cs",
@@ -838,19 +1138,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 32,
               "Title": "ServiceRegisteration.cs",
               "DocumentMoniker": "D:\\.Net\\Studeying\\web api\\project\\School\\school.infrstrcture\\ServiceRegisteration.cs",
               "RelativeDocumentMoniker": "school.infrstrcture\\ServiceRegisteration.cs",
               "ToolTip": "D:\\.Net\\Studeying\\web api\\project\\School\\school.infrstrcture\\ServiceRegisteration.cs",
               "RelativeToolTip": "school.infrstrcture\\ServiceRegisteration.cs",
-              "ViewState": "AQIAABcAAAAAAAAAAAAAACsAAAAMAAAA",
+              "ViewState": "AQIAABYAAAAAAAAAAAAswCsAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-06T04:33:00.628Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 98,
+              "DocumentIndex": 117,
               "Title": "20250106042004_changeIdType.cs",
               "DocumentMoniker": "D:\\.Net\\Studeying\\web api\\project\\School\\school.infrstrcture\\Migrations\\20250106042004_changeIdType.cs",
               "RelativeDocumentMoniker": "school.infrstrcture\\Migrations\\20250106042004_changeIdType.cs",
@@ -862,7 +1162,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 71,
+              "DocumentIndex": 91,
               "Title": "20250106041523_changeIdType.cs",
               "DocumentMoniker": "D:\\.Net\\Studeying\\web api\\project\\School\\school.infrstrcture\\Migrations\\20250106041523_changeIdType.cs",
               "RelativeDocumentMoniker": "school.infrstrcture\\Migrations\\20250106041523_changeIdType.cs",
@@ -873,7 +1173,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 72,
+              "DocumentIndex": 92,
               "Title": "20250106034257_changeIdType.cs",
               "DocumentMoniker": "D:\\.Net\\Studeying\\web api\\project\\School\\school.infrstrcture\\Migrations\\20250106034257_changeIdType.cs",
               "RelativeDocumentMoniker": "school.infrstrcture\\Migrations\\20250106034257_changeIdType.cs",
@@ -884,7 +1184,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 74,
+              "DocumentIndex": 94,
               "Title": "20250106023727_identityUser.cs",
               "DocumentMoniker": "D:\\.Net\\Studeying\\web api\\project\\School\\school.infrstrcture\\Migrations\\20250106023727_identityUser.cs",
               "RelativeDocumentMoniker": "school.infrstrcture\\Migrations\\20250106023727_identityUser.cs",
@@ -895,7 +1195,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 65,
               "Title": "user.cs",
               "DocumentMoniker": "D:\\.Net\\Studeying\\web api\\project\\School\\school.Data\\Entites\\identity\\user.cs",
               "RelativeDocumentMoniker": "school.Data\\Entites\\identity\\user.cs",
@@ -907,7 +1207,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 75,
+              "DocumentIndex": 95,
               "Title": "20250106015629_identity.cs",
               "DocumentMoniker": "D:\\.Net\\Studeying\\web api\\project\\School\\school.infrstrcture\\Migrations\\20250106015629_identity.cs",
               "RelativeDocumentMoniker": "school.infrstrcture\\Migrations\\20250106015629_identity.cs",
@@ -918,7 +1218,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 58,
+              "DocumentIndex": 78,
               "Title": "StudentConfigration.cs",
               "DocumentMoniker": "D:\\.Net\\Studeying\\web api\\project\\School\\school.infrstrcture\\configration\\StudentConfigration.cs",
               "RelativeDocumentMoniker": "school.infrstrcture\\configration\\StudentConfigration.cs",
@@ -930,7 +1230,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 84,
+              "DocumentIndex": 104,
               "Title": "sharedResource.ar.resx",
               "DocumentMoniker": "D:\\.Net\\Studeying\\web api\\project\\School\\school.core\\Resourse\\sharedResource.ar.resx",
               "RelativeDocumentMoniker": "school.core\\Resourse\\sharedResource.ar.resx",
@@ -943,7 +1243,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 82,
+              "DocumentIndex": 102,
               "Title": "sharedResource.ar.Designer.cs",
               "DocumentMoniker": "D:\\.Net\\Studeying\\web api\\project\\School\\school.core\\Resourse\\sharedResource.ar.Designer.cs",
               "RelativeDocumentMoniker": "school.core\\Resourse\\sharedResource.ar.Designer.cs",
@@ -955,7 +1255,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 83,
+              "DocumentIndex": 103,
               "Title": "sharedResourseKey.cs",
               "DocumentMoniker": "D:\\.Net\\Studeying\\web api\\project\\School\\school.core\\Resourse\\sharedResourseKey.cs",
               "RelativeDocumentMoniker": "school.core\\Resourse\\sharedResourseKey.cs",
@@ -967,7 +1267,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 81,
+              "DocumentIndex": 101,
               "Title": "sharedResourse.cs",
               "DocumentMoniker": "D:\\.Net\\Studeying\\web api\\project\\School\\school.core\\Resourse\\sharedResourse.cs",
               "RelativeDocumentMoniker": "school.core\\Resourse\\sharedResourse.cs",
@@ -979,7 +1279,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 86,
+              "DocumentIndex": 106,
               "Title": "paginationResult.cs",
               "DocumentMoniker": "D:\\.Net\\Studeying\\web api\\project\\School\\school.core\\wrapper\\paginationResult.cs",
               "RelativeDocumentMoniker": "school.core\\wrapper\\paginationResult.cs",
@@ -991,7 +1291,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 70,
+              "DocumentIndex": 90,
               "Title": "DeleteStudent.cs",
               "DocumentMoniker": "D:\\.Net\\Studeying\\web api\\project\\School\\school.core\\features\\student\\commands\\Models\\DeleteStudent.cs",
               "RelativeDocumentMoniker": "school.core\\features\\student\\commands\\Models\\DeleteStudent.cs",
@@ -1003,7 +1303,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 35,
               "Title": "EditStudent.cs",
               "DocumentMoniker": "D:\\.Net\\Studeying\\web api\\project\\School\\school.core\\Mapping\\student\\CommandMapping\\EditStudent.cs",
               "RelativeDocumentMoniker": "school.core\\Mapping\\student\\CommandMapping\\EditStudent.cs",
@@ -1015,7 +1315,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 80,
+              "DocumentIndex": 100,
               "Title": "EditStudentValidator.cs",
               "DocumentMoniker": "D:\\.Net\\Studeying\\web api\\project\\School\\school.core\\features\\student\\commands\\validation\\EditStudentValidator.cs",
               "RelativeDocumentMoniker": "school.core\\features\\student\\commands\\validation\\EditStudentValidator.cs",
@@ -1027,7 +1327,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 88,
+              "DocumentIndex": 108,
               "Title": "EditStudentCommend.cs",
               "DocumentMoniker": "D:\\.Net\\Studeying\\web api\\project\\School\\school.core\\features\\student\\commands\\Models\\EditStudentCommend.cs",
               "RelativeDocumentMoniker": "school.core\\features\\student\\commands\\Models\\EditStudentCommend.cs",
@@ -1039,7 +1339,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 92,
+              "DocumentIndex": 48,
               "Title": "validationBehaviour.cs",
               "DocumentMoniker": "D:\\.Net\\Studeying\\web api\\project\\School\\school.core\\Behaviour\\validationBehaviour.cs",
               "RelativeDocumentMoniker": "school.core\\Behaviour\\validationBehaviour.cs",
@@ -1051,7 +1351,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 67,
+              "DocumentIndex": 87,
               "Title": "AddStudentValidator.cs",
               "DocumentMoniker": "D:\\.Net\\Studeying\\web api\\project\\School\\school.core\\features\\student\\commands\\validation\\AddStudentValidator.cs",
               "RelativeDocumentMoniker": "school.core\\features\\student\\commands\\validation\\AddStudentValidator.cs",
@@ -1063,31 +1363,31 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 41,
               "Title": "AppController.cs",
               "DocumentMoniker": "D:\\.Net\\Studeying\\web api\\project\\School\\SchoolApi\\Base\\AppController.cs",
               "RelativeDocumentMoniker": "SchoolApi\\Base\\AppController.cs",
               "ToolTip": "D:\\.Net\\Studeying\\web api\\project\\School\\SchoolApi\\Base\\AppController.cs",
               "RelativeToolTip": "SchoolApi\\Base\\AppController.cs",
-              "ViewState": "AQIAAAEAAAAAAAAAAIAwwA8AAAAMAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAUwCIAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-24T21:54:40.885Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 14,
               "Title": "AddStudent.cs",
               "DocumentMoniker": "D:\\.Net\\Studeying\\web api\\project\\School\\school.core\\Mapping\\student\\CommandMapping\\AddStudent.cs",
               "RelativeDocumentMoniker": "school.core\\Mapping\\student\\CommandMapping\\AddStudent.cs",
               "ToolTip": "D:\\.Net\\Studeying\\web api\\project\\School\\school.core\\Mapping\\student\\CommandMapping\\AddStudent.cs",
               "RelativeToolTip": "school.core\\Mapping\\student\\CommandMapping\\AddStudent.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAIAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-24T19:20:22.021Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 65,
+              "DocumentIndex": 85,
               "Title": "StudentCommendHandelr.cs",
               "DocumentMoniker": "D:\\.Net\\Studeying\\web api\\project\\School\\school.core\\features\\student\\commands\\Handlers\\StudentCommendHandelr.cs",
               "RelativeDocumentMoniker": "school.core\\features\\student\\commands\\Handlers\\StudentCommendHandelr.cs",
@@ -1099,7 +1399,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 69,
+              "DocumentIndex": 89,
               "Title": "AddStudentCommend.cs",
               "DocumentMoniker": "D:\\.Net\\Studeying\\web api\\project\\School\\school.core\\features\\student\\commands\\Models\\AddStudentCommend.cs",
               "RelativeDocumentMoniker": "school.core\\features\\student\\commands\\Models\\AddStudentCommend.cs",
@@ -1111,7 +1411,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 77,
+              "DocumentIndex": 97,
               "Title": "School.Service",
               "DocumentMoniker": "D:\\.Net\\Studeying\\web api\\project\\School\\School.Service\\School.Service.csproj",
               "RelativeDocumentMoniker": "School.Service\\School.Service.csproj",
@@ -1122,19 +1422,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "Router.cs",
               "DocumentMoniker": "D:\\.Net\\Studeying\\web api\\project\\School\\school.Data\\AppMetaData\\Router.cs",
               "RelativeDocumentMoniker": "school.Data\\AppMetaData\\Router.cs",
               "ToolTip": "D:\\.Net\\Studeying\\web api\\project\\School\\school.Data\\AppMetaData\\Router.cs",
               "RelativeToolTip": "school.Data\\AppMetaData\\Router.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAD4vyoAAABEAAAA",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAnwDYAAABIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-24T00:58:44.59Z"
+              "WhenOpened": "2024-12-24T00:58:44.59Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 36,
               "Title": "GetSingleStudent.cs",
               "DocumentMoniker": "D:\\.Net\\Studeying\\web api\\project\\School\\school.core\\Mapping\\student\\QueryMapping\\GetSingleStudent.cs",
               "RelativeDocumentMoniker": "school.core\\Mapping\\student\\QueryMapping\\GetSingleStudent.cs",
@@ -1146,7 +1447,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 68,
+              "DocumentIndex": 88,
               "Title": "GetSingleStudent.cs",
               "DocumentMoniker": "D:\\.Net\\Studeying\\web api\\project\\School\\school.core\\features\\student\\query\\Results\\GetSingleStudent.cs",
               "RelativeDocumentMoniker": "school.core\\features\\student\\query\\Results\\GetSingleStudent.cs",
@@ -1158,7 +1459,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 63,
+              "DocumentIndex": 83,
               "Title": "GetStudentByIdQuery.cs",
               "DocumentMoniker": "D:\\.Net\\Studeying\\web api\\project\\School\\school.core\\features\\student\\query\\Models\\GetStudentByIdQuery.cs",
               "RelativeDocumentMoniker": "school.core\\features\\student\\query\\Models\\GetStudentByIdQuery.cs",
@@ -1170,7 +1471,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 56,
               "Title": "GenericRepository.cs",
               "DocumentMoniker": "D:\\.Net\\Studeying\\web api\\project\\School\\school.infrstrcture\\Baseinfrstcture\\GenericRepository.cs",
               "RelativeDocumentMoniker": "school.infrstrcture\\Baseinfrstcture\\GenericRepository.cs",
@@ -1182,7 +1483,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 64,
               "Title": "IGenericRepositary.cs",
               "DocumentMoniker": "D:\\.Net\\Studeying\\web api\\project\\School\\school.infrstrcture\\Baseinfrstcture\\IGenericRepositary.cs",
               "RelativeDocumentMoniker": "school.infrstrcture\\Baseinfrstcture\\IGenericRepositary.cs",
@@ -1194,44 +1495,43 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 16,
               "Title": "ResponceHandler.cs",
               "DocumentMoniker": "D:\\.Net\\Studeying\\web api\\project\\School\\school.core\\Base\\ResponceHandler.cs",
               "RelativeDocumentMoniker": "school.core\\Base\\ResponceHandler.cs",
               "ToolTip": "D:\\.Net\\Studeying\\web api\\project\\School\\school.core\\Base\\ResponceHandler.cs",
               "RelativeToolTip": "school.core\\Base\\ResponceHandler.cs",
-              "ViewState": "AQIAABQAAAAAAAAAAAAvwCwAAAA5AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-23T16:00:06.539Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-23T16:00:06.539Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 34,
               "Title": "Responce.cs",
               "DocumentMoniker": "D:\\.Net\\Studeying\\web api\\project\\School\\school.core\\Base\\Responce.cs",
               "RelativeDocumentMoniker": "school.core\\Base\\Responce.cs",
               "ToolTip": "D:\\.Net\\Studeying\\web api\\project\\School\\school.core\\Base\\Responce.cs",
               "RelativeToolTip": "school.core\\Base\\Responce.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAARAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-23T15:50:18.003Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 37,
               "Title": "GetStudientListMaping.cs",
               "DocumentMoniker": "D:\\.Net\\Studeying\\web api\\project\\School\\school.core\\Mapping\\student\\QueryMapping\\GetStudientListMaping.cs",
               "RelativeDocumentMoniker": "school.core\\Mapping\\student\\QueryMapping\\GetStudientListMaping.cs",
               "ToolTip": "D:\\.Net\\Studeying\\web api\\project\\School\\school.core\\Mapping\\student\\QueryMapping\\GetStudientListMaping.cs",
               "RelativeToolTip": "school.core\\Mapping\\student\\QueryMapping\\GetStudientListMaping.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAWwBIAAAAIAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-22T19:26:06.379Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 33,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "D:\\.Net\\Studeying\\web api\\project\\School\\school.infrstrcture\\context\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "school.infrstrcture\\context\\ApplicationDbContext.cs",
@@ -1243,7 +1543,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 29,
               "Title": "StudentProfile.cs",
               "DocumentMoniker": "D:\\.Net\\Studeying\\web api\\project\\School\\school.core\\Mapping\\student\\StudentProfile.cs",
               "RelativeDocumentMoniker": "school.core\\Mapping\\student\\StudentProfile.cs",
@@ -1255,7 +1555,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 76,
+              "DocumentIndex": 96,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "D:\\.Net\\Studeying\\web api\\project\\School\\SchoolApi\\appsettings.Development.json",
               "RelativeDocumentMoniker": "SchoolApi\\appsettings.Development.json",
@@ -1267,7 +1567,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 85,
+              "DocumentIndex": 105,
               "Title": "GetStudentResult.cs",
               "DocumentMoniker": "D:\\.Net\\Studeying\\web api\\project\\School\\school.core\\features\\student\\query\\Results\\GetStudentResult.cs",
               "RelativeDocumentMoniker": "school.core\\features\\student\\query\\Results\\GetStudentResult.cs",
@@ -1279,19 +1579,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 26,
               "Title": "StudentController.cs",
               "DocumentMoniker": "D:\\.Net\\Studeying\\web api\\project\\School\\SchoolApi\\controller\\StudentController.cs",
               "RelativeDocumentMoniker": "SchoolApi\\controller\\StudentController.cs",
               "ToolTip": "D:\\.Net\\Studeying\\web api\\project\\School\\SchoolApi\\controller\\StudentController.cs",
               "RelativeToolTip": "SchoolApi\\controller\\StudentController.cs",
-              "ViewState": "AQIAABUAAAAAAAAAAAAAABEAAAAEAAAA",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAABEAAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-22T14:49:08.063Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 68,
               "Title": "ModuleCoreDependices.cs",
               "DocumentMoniker": "D:\\.Net\\Studeying\\web api\\project\\School\\school.core\\ModuleCoreDependices.cs",
               "RelativeDocumentMoniker": "school.core\\ModuleCoreDependices.cs",
@@ -1303,7 +1603,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 62,
+              "DocumentIndex": 82,
               "Title": "StudentQueryHandler.cs",
               "DocumentMoniker": "D:\\.Net\\Studeying\\web api\\project\\School\\school.core\\features\\student\\query\\Handlers\\StudentQueryHandler.cs",
               "RelativeDocumentMoniker": "school.core\\features\\student\\query\\Handlers\\StudentQueryHandler.cs",
@@ -1315,7 +1615,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 66,
+              "DocumentIndex": 86,
               "Title": "GetStudentListQuery.cs",
               "DocumentMoniker": "D:\\.Net\\Studeying\\web api\\project\\School\\school.core\\features\\student\\query\\Models\\GetStudentListQuery.cs",
               "RelativeDocumentMoniker": "school.core\\features\\student\\query\\Models\\GetStudentListQuery.cs",
@@ -1327,43 +1627,43 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 46,
               "Title": "ModuleServiceDepancies.cs",
               "DocumentMoniker": "D:\\.Net\\Studeying\\web api\\project\\School\\School.Service\\ModuleServiceDepancies.cs",
               "RelativeDocumentMoniker": "School.Service\\ModuleServiceDepancies.cs",
               "ToolTip": "D:\\.Net\\Studeying\\web api\\project\\School\\School.Service\\ModuleServiceDepancies.cs",
               "RelativeToolTip": "School.Service\\ModuleServiceDepancies.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAACAAAABHAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA3AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-22T12:06:15.521Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 45,
               "Title": "StudentService.cs",
               "DocumentMoniker": "D:\\.Net\\Studeying\\web api\\project\\School\\School.Service\\implmentation\\StudentService.cs",
               "RelativeDocumentMoniker": "School.Service\\implmentation\\StudentService.cs",
               "ToolTip": "D:\\.Net\\Studeying\\web api\\project\\School\\School.Service\\implmentation\\StudentService.cs",
               "RelativeToolTip": "School.Service\\implmentation\\StudentService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAApAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAcAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-22T12:00:39.509Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 47,
               "Title": "IStuidentservice.cs",
               "DocumentMoniker": "D:\\.Net\\Studeying\\web api\\project\\School\\School.Service\\abstract\\IStuidentservice.cs",
               "RelativeDocumentMoniker": "School.Service\\abstract\\IStuidentservice.cs",
               "ToolTip": "D:\\.Net\\Studeying\\web api\\project\\School\\School.Service\\abstract\\IStuidentservice.cs",
               "RelativeToolTip": "School.Service\\abstract\\IStuidentservice.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAAsAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAQAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-22T11:57:19.368Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 93,
+              "DocumentIndex": 112,
               "Title": "SchoolApi.http",
               "DocumentMoniker": "D:\\.Net\\Studeying\\web api\\project\\School\\SchoolApi\\SchoolApi.http",
               "RelativeDocumentMoniker": "SchoolApi\\SchoolApi.http",
@@ -1375,7 +1675,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 63,
               "Title": "IStudentRepository.cs",
               "DocumentMoniker": "D:\\.Net\\Studeying\\web api\\project\\School\\school.infrstrcture\\abstract\\IStudentRepository.cs",
               "RelativeDocumentMoniker": "school.infrstrcture\\abstract\\IStudentRepository.cs",
@@ -1387,7 +1687,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 62,
               "Title": "Repositary.cs",
               "DocumentMoniker": "D:\\.Net\\Studeying\\web api\\project\\School\\school.infrstrcture\\Repositary\\Repositary.cs",
               "RelativeDocumentMoniker": "school.infrstrcture\\Repositary\\Repositary.cs",
@@ -1399,7 +1699,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 61,
               "Title": "moduleinfrstrcutreDpencies.cs",
               "DocumentMoniker": "D:\\.Net\\Studeying\\web api\\project\\School\\school.infrstrcture\\moduleinfrstrcutreDpencies.cs",
               "RelativeDocumentMoniker": "school.infrstrcture\\moduleinfrstrcutreDpencies.cs",
@@ -1411,19 +1711,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\.Net\\Studeying\\web api\\project\\School\\SchoolApi\\Program.cs",
               "RelativeDocumentMoniker": "SchoolApi\\Program.cs",
               "ToolTip": "D:\\.Net\\Studeying\\web api\\project\\School\\SchoolApi\\Program.cs",
               "RelativeToolTip": "SchoolApi\\Program.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAqwB8AAAAMAAAA",
+              "ViewState": "AQIAAE0AAAAAAAAAAAAswGAAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-21T15:03:10.716Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 70,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\.Net\\Studeying\\web api\\project\\School\\SchoolApi\\appsettings.json",
               "RelativeDocumentMoniker": "SchoolApi\\appsettings.json",
@@ -1435,7 +1735,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 94,
+              "DocumentIndex": 113,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "D:\\.Net\\Studeying\\web api\\project\\School\\school.infrstrcture\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "school.infrstrcture\\Data\\ApplicationDbContext.cs",
@@ -1446,7 +1746,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 89,
+              "DocumentIndex": 109,
               "Title": "Departmentsubject.cs",
               "DocumentMoniker": "D:\\.Net\\Studeying\\web api\\project\\School\\school.Data\\Entites\\Departmentsubject.cs",
               "RelativeDocumentMoniker": "school.Data\\Entites\\Departmentsubject.cs",
@@ -1458,7 +1758,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 66,
               "Title": "subjectstudent.cs",
               "DocumentMoniker": "D:\\.Net\\Studeying\\web api\\project\\School\\school.Data\\Entites\\subjectstudent.cs",
               "RelativeDocumentMoniker": "school.Data\\Entites\\subjectstudent.cs",
@@ -1470,7 +1770,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 90,
+              "DocumentIndex": 110,
               "Title": "subject.cs",
               "DocumentMoniker": "D:\\.Net\\Studeying\\web api\\project\\School\\school.Data\\Entites\\subject.cs",
               "RelativeDocumentMoniker": "school.Data\\Entites\\subject.cs",
@@ -1482,7 +1782,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 91,
+              "DocumentIndex": 111,
               "Title": "Department.cs",
               "DocumentMoniker": "D:\\.Net\\Studeying\\web api\\project\\School\\school.Data\\Entites\\Department.cs",
               "RelativeDocumentMoniker": "school.Data\\Entites\\Department.cs",
@@ -1494,7 +1794,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 73,
+              "DocumentIndex": 93,
               "Title": "Student.cs",
               "DocumentMoniker": "D:\\.Net\\Studeying\\web api\\project\\School\\school.Data\\Entites\\Student.cs",
               "RelativeDocumentMoniker": "school.Data\\Entites\\Student.cs",
@@ -1506,7 +1806,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
+              "DocumentIndex": 44,
               "Title": "school.infrstrcture.csproj",
               "DocumentMoniker": "D:\\.Net\\Studeying\\web api\\project\\School\\school.infrstrcture\\school.infrstrcture.csproj",
               "RelativeDocumentMoniker": "school.infrstrcture\\school.infrstrcture.csproj",
@@ -1518,7 +1818,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 71,
               "Title": "School.Service.csproj",
               "DocumentMoniker": "D:\\.Net\\Studeying\\web api\\project\\School\\School.Service\\School.Service.csproj",
               "RelativeDocumentMoniker": "School.Service\\School.Service.csproj",
@@ -1530,7 +1830,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 43,
               "Title": "school.Data.csproj",
               "DocumentMoniker": "D:\\.Net\\Studeying\\web api\\project\\School\\school.Data\\school.Data.csproj",
               "RelativeDocumentMoniker": "school.Data\\school.Data.csproj",
@@ -1542,7 +1842,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 67,
               "Title": "SchoolApi.csproj",
               "DocumentMoniker": "D:\\.Net\\Studeying\\web api\\project\\School\\SchoolApi\\SchoolApi.csproj",
               "RelativeDocumentMoniker": "SchoolApi\\SchoolApi.csproj",
@@ -1554,7 +1854,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 87,
+              "DocumentIndex": 107,
               "Title": "school.core.csproj",
               "DocumentMoniker": "D:\\.Net\\Studeying\\web api\\project\\School\\school.core\\school.core.csproj",
               "RelativeDocumentMoniker": "school.core\\school.core.csproj",
@@ -1566,7 +1866,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 95,
+              "DocumentIndex": 114,
               "Title": "Class1.cs",
               "DocumentMoniker": "D:\\.Net\\Studeying\\web api\\project\\School\\school.core\\Class1.cs",
               "RelativeDocumentMoniker": "school.core\\Class1.cs",
@@ -1577,7 +1877,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 96,
+              "DocumentIndex": 115,
               "Title": "Class1.cs",
               "DocumentMoniker": "D:\\.Net\\Studeying\\web api\\project\\School\\School.Service\\Class1.cs",
               "RelativeDocumentMoniker": "School.Service\\Class1.cs",
@@ -1588,7 +1888,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 97,
+              "DocumentIndex": 116,
               "Title": "Class1.cs",
               "DocumentMoniker": "D:\\.Net\\Studeying\\web api\\project\\School\\school.infrstrcture\\Class1.cs",
               "RelativeDocumentMoniker": "school.infrstrcture\\Class1.cs",
@@ -1599,7 +1899,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 72,
               "Title": "Class1.cs",
               "DocumentMoniker": "D:\\.Net\\Studeying\\web api\\project\\School\\school.Data\\Class1.cs",
               "RelativeDocumentMoniker": "school.Data\\Class1.cs",
@@ -1619,7 +1919,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 78,
+              "DocumentIndex": 98,
               "Title": "sharedResource.en.resx",
               "DocumentMoniker": "D:\\.Net\\Studeying\\web api\\project\\School\\school.core\\Resourse\\sharedResource.en.resx",
               "RelativeDocumentMoniker": "school.core\\Resourse\\sharedResource.en.resx",
@@ -1630,7 +1930,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 79,
+              "DocumentIndex": 99,
               "Title": "sharedResource.ar.resx",
               "DocumentMoniker": "D:\\.Net\\Studeying\\web api\\project\\School\\school.core\\Resourse\\sharedResource.ar.resx",
               "RelativeDocumentMoniker": "school.core\\Resourse\\sharedResource.ar.resx",

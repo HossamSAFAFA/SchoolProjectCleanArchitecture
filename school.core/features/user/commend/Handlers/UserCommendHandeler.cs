@@ -95,9 +95,21 @@ namespace school.core.features.user.commend.Handlers
             if (!CreateResult.Succeeded)
             {
                 return BadRequest<string>(CreateResult.Errors.FirstOrDefault().Description);
+
+
+
             }
             else
             {
+                var users = userManager.Users.ToList();
+                if (users.Count < 1)
+                {
+                    await userManager.AddToRoleAsync(UserIdentity, "Admin");
+                }
+                else
+                {
+                    await userManager.AddToRoleAsync(UserIdentity, "User");
+                }
                 return Created<string>("");
             }
         }

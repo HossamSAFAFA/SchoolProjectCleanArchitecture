@@ -10,3 +10,4 @@ D:\.Net\Studeying\web api\project\School\school.Data\obj\Debug\net8.0\refint\sch
 D:\.Net\Studeying\web api\project\School\school.Data\obj\Debug\net8.0\school.Data.pdb
 D:\.Net\Studeying\web api\project\School\school.Data\obj\Debug\net8.0\ref\school.Data.dll
 D:\.Net\Studeying\web api\project\School\school.Data\obj\Debug\net8.0\school.Data.csproj.AssemblyReference.cache
+D:\.Net\Studeying\web api\project\School\school.Data\obj\Debug\net8.0\school.Data.sourcelink.json

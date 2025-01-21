@@ -12,6 +12,7 @@ namespace School.Service
         {
             services.AddTransient<IStuidentservice, StudentService>();
             services.AddTransient<IAuthentication, Authentication>();
+            services.AddTransient<IAuthorize, Authorize>();
 
             // services.AddAuthentication(option =>
             // {

@@ -44,5 +44,17 @@
 
 
         }
+        public static class Authorize
+        {
+
+            public const string prefix = rule + "Authorize";
+            public const string create = prefix + "Role/create";
+            public const string Edit = prefix + "Role/Edit";
+            public const string Delete = prefix + "Role/Delete";
+            public const string GetList = prefix + "Role/GetListRole";
+            public const string GetRole = prefix + "Role/GetRolebyid/{id}";
+
+        }
+
     }
 }

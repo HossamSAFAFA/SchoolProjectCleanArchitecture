@@ -2,13 +2,16 @@
 using FluentValidation.AspNetCore;
 using Microsoft.AspNetCore.Authentication;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
+using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Localization;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Options;
 using Microsoft.IdentityModel.Tokens;
 using school.core;
+using school.Data.Entites.identity;
 using school.infrstrcture;
 using school.infrstrcture.Data;
+using school.infrstrcture.Seeder;
 using School.Service;
 using System.Globalization;
 using System.Text;
@@ -16,7 +19,7 @@ namespace SchoolApi
 {
     public class Program
     {
-        public static void Main(string[] args)
+        public static async Task Main(string[] args)
         {
             var builder = WebApplication.CreateBuilder(args);
 
@@ -30,62 +33,7 @@ namespace SchoolApi
             {
                 option.UseSqlServer(builder.Configuration.GetConnectionString("dbcontext"));
             });
-            //Jwt
-            // builder.Services.AddAuthentication(option =>
-            // {
-            //     option.DefaultAuthenticateScheme = JwtBearerDefaults.AuthenticationScheme;
-            //     option.DefaultChallengeScheme = JwtBearerDefaults.AuthenticationScheme;
-            //     option.DefaultScheme = JwtBearerDefaults.AuthenticationScheme;
-            //
-            //
-            // }).AddJwtBearer("Bearer", o =>
-            // {
-            //     o.SaveToken = true;
-            //     o.RequireHttpsMetadata = false;
-            //     o.TokenValidationParameters = new TokenValidationParameters()
-            //     {
-            //
-            //         ValidateIssuer = true,
-            //         //ValidIssuer = builder.Configuration["JWT:IssuerIP"],
-            //         ValidIssuer = "iii",
-            //         //configuration["JWT:IssuerIP"],
-            //         ValidateAudience = true,
-            //         // ValidAudience = builder.Configuration["JWT:AudienceIP"],
-            //         ValidAudience = "iii",
-            //         IssuerSigningKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes("lkslhfhifhoheihoheohoehoheoeh4455@####"))//builder.Configuration["JWT:SecritKey"]))
-            //
-            //
-            //     };
-            // });
-            //builder.Services.AddCors(options =>
-            //{
-            //    options.AddPolicy("AllowFrontend", builder =>
-            //    {
-            //        builder.WithOrigins("http://localhost:4200")
-            //               .AllowAnyHeader()
-            //               .AllowAnyMethod();
-            //    });
-            //});
-            //builder.Services.AddAuthentication(options =>
-            //{
-            //    options.DefaultAuthenticateScheme = JwtBearerDefaults.AuthenticationScheme;
-            //    options.DefaultChallengeScheme = JwtBearerDefaults.AuthenticationScheme;
-            //    options.DefaultScheme = JwtBearerDefaults.AuthenticationScheme;
-            //
-            //}).AddJwtBearer(options =>
-            //{
-            //    options.SaveToken = true;
-            //    options.RequireHttpsMetadata = false;
-            //    options.TokenValidationParameters = new TokenValidationParameters
-            //    {
-            //        ValidateIssuer = true,
-            //        ValidateAudience = true,
-            //        ValidateIssuerSigningKey = true,
-            //        ValidIssuer = builder.Configuration["JWT:IssuerIP"],
-            //        ValidAudience = builder.Configuration["JWT:AudienceIP"],
-            //        IssuerSigningKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(builder.Configuration["JWT:SecritKey"]))
-            //    };
-            //});
+
             builder.Services.AddAuthentication("Bearer")
      .AddJwtBearer(options =>
      {
@@ -147,6 +95,13 @@ namespace SchoolApi
             #endregion
 
             var app = builder.Build();
+            using (var scope = app.Services.CreateScope())
+            {
+                var userManager = scope.ServiceProvider.GetRequiredService<UserManager<User>>();
+                var roleManager = scope.ServiceProvider.GetRequiredService<RoleManager<IdentityRole<int>>>();
+                await RoleSeeder.SeedAsync(roleManager);
+                await UserSeeder.SeedAsync(userManager);
+            }
 
             // Configure the HTTP request pipeline.
             if (app.Environment.IsDevelopment())
