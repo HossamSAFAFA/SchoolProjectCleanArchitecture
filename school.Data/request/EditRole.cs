@@ -1,4 +1,4 @@
-﻿namespace school.Data.Dto
+﻿namespace school.Data.requesr
 {
     public class EditRole
     {

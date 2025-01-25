@@ -15,7 +15,7 @@ namespace SchoolApi.controller
     // [Authorize(JwtBearerDefaults.AuthenticationScheme)]
     //  [Authorize(JwtBearerDefaults.AuthenticationScheme)]
     //  [Authorize("Bearer")]
-    [Authorize(AuthenticationSchemes = "Bearer")]
+    [Authorize(AuthenticationSchemes = "Bearer", Roles = "Admin")]
 
     public class StudentController : AppController
     {
@@ -43,6 +43,7 @@ namespace SchoolApi.controller
 
 
         }
+        [Authorize(AuthenticationSchemes = "Bearer", Policy = "Create Student")]
         [HttpPost(school.Data.AppMetaData.Router.studentRouting.AddStudent)]
         public async Task<IActionResult> Created(AddStudentCommend commend)
         {

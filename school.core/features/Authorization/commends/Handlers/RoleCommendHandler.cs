@@ -1,12 +1,12 @@
 ﻿using MediatR;
 using school.core.Base;
 using school.core.features.Authorization.commends.models;
-using school.Data.Dto;
+using school.Data.requesr;
 using School.Service.Abstract;
 
 namespace school.core.features.Authorization.commends.Handlers
 {
-    public class RoleCommendHandler : ResponseHandler, IRequestHandler<AddRoleCommend, Response<string>>, IRequestHandler<EditRolecommend, Response<string>>, IRequestHandler<DeleteRoleCommend, Response<string>>// IRequestHandler<DeleteRole, Response<string>>
+    public class RoleCommendHandler : ResponseHandler, IRequestHandler<AddRoleCommend, Response<string>>, IRequestHandler<EditRolecommend, Response<string>>, IRequestHandler<DeleteRoleCommend, Response<string>>, IRequestHandler<UpdateRoleCommend, Response<string>>
     {
         private readonly IAuthorize authorizationService;
         public RoleCommendHandler(IAuthorize _authorizationService)
@@ -36,6 +36,20 @@ namespace school.core.features.Authorization.commends.Handlers
             if (result == "Not Found") return NotFound<string>("Role Not found");
             else if (result == "Success") return Success("Update Success");
             else return BadRequest<string>(result);
+        }
+
+        public async Task<Response<string>> Handle(UpdateRoleCommend request, CancellationToken cancellationToken)
+        {
+
+            var result = await authorizationService.UpdateUserRole(request);
+            switch (result)
+            {
+                case "UserIsNull": return NotFound<string>(result);
+                case "FailedToRemoveOldRoles": return BadRequest<string>(result);
+                case "FailedToAddNewRoles": return BadRequest<string>(result);
+                case "FailedToUpdateUserRoles": return BadRequest<string>(result);
+            }
+            return Success<string>(result);
         }
 
         async Task<Response<string>> IRequestHandler<AddRoleCommend, Response<string>>.Handle(AddRoleCommend request, CancellationToken cancellationToken)

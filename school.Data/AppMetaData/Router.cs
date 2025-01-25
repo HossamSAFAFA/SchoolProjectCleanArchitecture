@@ -51,9 +51,12 @@
             public const string create = prefix + "Role/create";
             public const string Edit = prefix + "Role/Edit";
             public const string Delete = prefix + "Role/Delete";
-            public const string GetList = prefix + "Role/GetListRole";
+            public const string GetList = prefix + "Role/Get_List_Role";
             public const string GetRole = prefix + "Role/GetRolebyid/{id}";
-
+            public const string GetRoleManageUserRole = prefix + "Role/Manage_User_Role/{id}";
+            public const string UpdateUserRole = prefix + "Role/Update_User_Role";
+            public const string GetRoleManageClaimsRole = prefix + "Cliams/Get_ClaimsRole/{id}";
+            public const string UpdateCliamsRole = "Cliams/Update_User_Cliams";
         }
 
     }

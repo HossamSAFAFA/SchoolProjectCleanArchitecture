@@ -43,7 +43,32 @@ namespace SchoolApi.controller
             var response = await Mediator.Send(command);
             return NewResult(response);
         }
-
+        [HttpGet(school.Data.AppMetaData.Router.Authorize.GetRoleManageUserRole)]
+        public async Task<IActionResult> ManageUserRole(int id)
+        {
+            var command = new ManageUserRoleQuery(id);
+            var response = await Mediator.Send(command);
+            return NewResult(response);
+        }
+        [HttpPost(school.Data.AppMetaData.Router.Authorize.UpdateUserRole)]
+        public async Task<IActionResult> UpdateUserRple(UpdateRoleCommend command)
+        {
+            var response = await Mediator.Send(command);
+            return NewResult(response);
+        }
+        [HttpGet(school.Data.AppMetaData.Router.Authorize.GetRoleManageClaimsRole)]
+        public async Task<IActionResult> ManageUserClaims(int id)
+        {
+            var command = new ManageUserClaimQuery(id);
+            var response = await Mediator.Send(command);
+            return NewResult(response);
+        }
+        [HttpPost(school.Data.AppMetaData.Router.Authorize.UpdateCliamsRole)]
+        public async Task<IActionResult> UpdateUserCliams(UpdateClaimsCommend command)
+        {
+            var response = await Mediator.Send(command);
+            return NewResult(response);
+        }
 
     }
 }

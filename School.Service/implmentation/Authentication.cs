@@ -71,10 +71,13 @@ namespace School.Service.implmentation
             claims.Add(new Claim(ClaimTypes.Name, user.UserName));
             claims.Add(new Claim(JwtRegisteredClaimNames.Jti, Guid.NewGuid().ToString()));
             var UserRole = await UserManager.GetRolesAsync(user);
+
             foreach (var Role in UserRole)
             {
                 claims.Add(new Claim(ClaimTypes.Role, Role));
             }
+            var userClaims = await UserManager.GetClaimsAsync(user);
+            claims.AddRange(userClaims);
             var SignKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(Config["JWT:SecritKey"]));
             SigningCredentials signcred = new SigningCredentials(SignKey, SecurityAlgorithms.HmacSha256);
 

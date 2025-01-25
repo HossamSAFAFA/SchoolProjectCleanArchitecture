@@ -1,6 +1,6 @@
 ﻿using MediatR;
 using school.core.Base;
-using school.Data.Dto;
+using school.Data.requesr;
 
 namespace school.core.features.Authorization.commends.models
 {

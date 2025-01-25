@@ -13,6 +13,17 @@ namespace School.Service
             services.AddTransient<IStuidentservice, StudentService>();
             services.AddTransient<IAuthentication, Authentication>();
             services.AddTransient<IAuthorize, Authorize>();
+            services.AddAuthorization(option =>
+            {
+                option.AddPolicy("Create Student", policy =>
+                {
+                    policy.RequireClaim("Create Student", "True");
+
+
+                });
+
+            });
+
 
             // services.AddAuthentication(option =>
             // {
